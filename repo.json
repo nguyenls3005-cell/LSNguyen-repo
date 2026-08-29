@@ -47,6 +47,46 @@
 ], 
 "featured": false, 
 "isPrivate": false 
-} 
+},{
+      "identifier": "Apple Park",
+      "kind": "wallpaper",
+      "name": "Apple Park",
+      "author": "Enkei64",
+      "version": "1.0.0",
+      "summary": "Apple Park animation",
+      "description": "chân dung Apple Park từ trên cao và hiệu ứng tuyệt vời!",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0354.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0354.png"
+      ],
+      "download": "packages/Apple_Park__Maps_.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    }
 ] 
 }
