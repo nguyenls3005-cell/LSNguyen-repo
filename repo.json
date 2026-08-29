@@ -24,7 +24,7 @@
       ],
       "download": "packages/xiaoba.tendies",
 	  "sha256": "abc",
-		"size": 14533669
+		"size": 14533669,
       "supportedOS": [
         {
           "minimum": "17.0",
