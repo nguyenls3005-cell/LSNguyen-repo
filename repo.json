@@ -1,0 +1,52 @@
+{ 
+"schemaVersion": 1, 
+"identifier": "com.yangjiii.LSNguyen", 
+"name": "LSNguyen Repository", 
+"description": "Mã Nguồn Repo Của LSNguyen", 
+"icon": "assets/IMG_0295.png", 
+"packages": [ 
+{ 
+"identifier": "Chika-wallpaper", 
+"kind": "wallpaper", 
+"name": "Chika Wallpaper", 
+"author": "Chinese", 
+"version": "1.0.0", 
+"summary": "Hình nền đẹp cho các chị em", 
+"description": "Tendies có cấu trúc bắt mắt với nhân vật Chikawa phù hợp với chị em", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper", 
+"Custom" 
+], 
+"icon": "assets/IMG_0339.png", 
+"screenshots": [ 
+"https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0345.png" 
+], 
+"download": "packages/xiaoba.tendies", 
+"sha256": "e7bf33a85304a61e1d9174fb72dc3d1499cae6e12db267e1c13df39c13ba7248", 
+"size": 14533669, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+],
+"featured": false,
+"isPrivate": false
+}
+]
+}
