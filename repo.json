@@ -23,6 +23,8 @@
         "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Night_City.gif"
       ],
       "download": "packages/xiaoba.tendies",
+	  "sha256": "abc",
+		"size": 14533669
       "supportedOS": [
         {
           "minimum": "17.0",
