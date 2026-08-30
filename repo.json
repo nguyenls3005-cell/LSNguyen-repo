@@ -143,19 +143,21 @@
       "name": "Capcut Pro",
       "author": "YangJiii",
       "version": "1.0.0",
-      "summary": "up capcut lên pro free nhanh nhất",
-      "description": "khi patch xong không được login",
+      "summary": "Share Freee.",
+      "description": "Nâng CapCut lên Pro.Vui lòng không đăng nhập tài khoản CapCut.",
       "category": "Patches",
       "tags": [
         "Patches"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/copy_055BB4FC-5AEC-4C39-936B-2AC58C9E484E.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0379.png"
+        "assets/IMG_0379.png"
       ],
-      "download": "packages/Capcut Pro.3105",
+      "download": "packages/CapcutPro.3105",
       "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
       "size": 34303,
+      "password": "3105",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -176,7 +178,8 @@
           ]
         }
       ],
-      "featured": false,
+      "changelog": "Nguồn thử nghiệm đầu tiên với mô tả và gallery ảnh preview.",
+      "featured": true,
       "isPrivate": false
     }
   ]
