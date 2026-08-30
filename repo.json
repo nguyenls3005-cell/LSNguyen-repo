@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "identifier": "com.yangjiii.LSNguyen",
+  "name": "LSNguyen Repository",
+  "description": "Mã Nguồn Repo Của LSNguyen",
+  "icon": "assets/IMG_0358.png",
+  "packages": [
+    {
+      "identifier": "Chika-wallpaper",
+      "kind": "wallpaper",
+      "name": "Chika Wallpaper",
+      "author": "Chinese",
+      "version": "1.0.0",
+      "summary": "tendies xinh xắn✨",
+      "description": "Tendies Chikawa siêu xinh dành cho những người yêu Chikawa❤️",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0339.png",
+      "screenshots": [
+        "assets/IMG_0345.png",
+        "assets/IMG_0361.png"
+      ],
+      "download": "packages/xiaoba.tendies",
+      "sha256": "e7bf33a85304a61e1d9174fb72dc3d1499cae6e12db267e1c13df39c13ba7248",
+      "size": 14533669,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Apple-Bird",
+      "kind": "wallpaper",
+      "name": "Apple Birds",
+      "author": "Nhat Tien",
+      "version": "1.0.0",
+      "summary": "hình nền đơn giản với logo apple đổi màu",
+      "description": "cấu trúc tuy đơn giản nhưng lại vô cùng tinh tế",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0371.png",
+      "screenshots": [
+        "assets/IMG_0371.png",
+        "assets/IMG_0372.png"
+      ],
+      "download": "packages/Apple-Bird-.tendies",
+      "sha256": "b08d0c563241639c90806407ef3aea5d1e2c83125b1f555bd7d1702900836280",
+      "size": 1451272,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "AKANE-the-angel",
+      "kind": "wallpaper",
+      "name": "AKANE the angel",
+      "author": "fan DoraXXX",
+      "version": "1.0.0",
+      "summary": "hình nền công phu với một người con gái đang ngồi",
+      "description": "khi vuốt lên nhân vật sẽ bay lên theo ",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0377.png",
+      "screenshots": [
+        "assets/IMG_0377.png",
+        "assets/IMG_0378.png"
+      ],
+      "download": "packages/AKANE_the_Angle.tendies",
+      "sha256": "9eb5c2a00592f77df7adba93632ec991093422139862a57f730d6b7adb6b17e5",
+      "size": 21911764,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Capcut-Pro",
+      "kind": "patch",
+      "name": "Capcut Pro",
+      "author": "YangJiii",
+      "version": "1.0.0",
+      "summary": "Nâng Capcut lên Pro miễn phí, vĩnh viễn",
+      "description": "Sau Khi nâng không được login tài khoản",
+      "category": "Patch",
+      "tags": [
+        "Patch"
+      ],
+      "icon": "assets/IMG_0384.png",
+      "screenshots": [
+        "assets/IMG_0379.png"
+      ],
+      "download": "packages/CapcutPro.3105",
+      "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
+      "password": "3105",
+      "size": 34303,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Dazz-Cam-Pro",
+      "kind": "patch",
+      "name": "Dazz Cam Pro",
+      "author": "W/m Cryy",
+      "version": "1.0.0",
+      "summary": "Nâng Dazz Cam lên Pro miễn phí, vĩnh viễn",
+      "description": "phù hợp cho những người đam mê chụp ảnh",
+      "category": "Patch",
+      "tags": [
+        "Patch"
+      ],
+      "icon": "assets/IMG_0387.png",
+      "screenshots": [
+        "assets/IMG_0380.png"
+      ],
+      "download": "packages/Dazz Cam Pro (WmCry).3105",
+      "sha256": "a192b2470cf3766d407a8c9957ec1f92e121ee112bbb983d9b60b21b6387b9ea",
+      "size": 1082,
+      "password": "wmcry",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    }
+  ]
+}
