@@ -281,7 +281,7 @@
       ],
       "icon": "assets/IMG_0424.jpeg",
       "screenshots": [
-        "assets/IMG_0424.jpeg",
+        "assets/IMG_0424.jpeg"
       ],
       "download": "packages/iPhone 17 Pro.tendies",
       "sha256": "f6caadf93d7bba10ace6ae0f6c147af28ab636163ee4461b1a82731051971626",
@@ -668,6 +668,7 @@
       "tags": [
         "Dialers"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0453.png",
       "screenshots": [
         "assets/IMG_0453.png",
