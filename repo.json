@@ -655,6 +655,49 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Hachiware-dial",
+      "kind": "patch",
+      "name": "Hachiware Dialer",
+      "author": "Xuan Dan",
+      "version": "1.0.0",
+      "summary": "Hachiware xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Hachiware cho anh em không cần jailbreak",
+      "category": "Patch",
+      "tags": [
+        "Patch"
+      ],
+      "icon": "assets/IMG_0467.png",
+      "screenshots": [
+        "assets/IMG_0467.png",
+        "assets/IMG_0466.png"
+      ],
+      "download": "packages/hachiware2.3105pass",
+      "sha256": "ce3cb58493be8ebaa7d9d1a85a6ec1f162b2da57e8aea083eafd8f20d1286fe0",
+      "size": 1340430,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
