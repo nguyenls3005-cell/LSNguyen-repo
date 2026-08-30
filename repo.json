@@ -657,26 +657,25 @@
       "isPrivate": false
     },
     {
-      "identifier": "Hachiware-pass",
-      "kind": "Dialer",
-      "name": "Hachiware Dialer",
-      "author": "Xuandan",
+      "identifier": "cutecat",
+      "kind": "Dialers",
+      "name": "Cute Cat Dialer",
+      "author": "Gasetinh",
       "version": "1.0.0",
-      "summary": "dialer Hachiware",
-      "description": "Hachiware dialer mang đến giao diện quay số có Hachiware vô cùng đẹp✨",
+      "summary": "theme Dial Cute Cat",
+      "description": "using patch 3105 ",
       "category": "Dialers",
       "tags": [
         "Dialers"
       ],
-      "publishedAt": "2026-08-30T10:00:00Z",
-      "icon": "assets/IMG_0453.png",
+      "icon": "assets/IMG_0455.png",
       "screenshots": [
-        "assets/IMG_0453.png",
-        "assets/IMG_0454.png"
+        "assets/IMG_0455.png",
+        "assets/IMG_0456.png"
       ],
-      "download": "packages/hachiware.3105pass",
-      "sha256": "8fbff0d4aea68ed52007f8c0c2ed0dc124026bdf4e892767046ff0c3ebe83915",
-      "size": 1576708,
+      "download": "packages/Cutecat.3105",
+      "sha256": "8aa93792a87c8bb2924a44cdbbe462627e95fd4e1e6cf7107d1d2a672de9c085",
+      "size": 371968,
       "supportedOS": [
         {
           "minimum": "17.0",
