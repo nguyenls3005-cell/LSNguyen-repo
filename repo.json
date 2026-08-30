@@ -698,6 +698,49 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "cute-cat",
+      "kind": "patch",
+      "name": "Cute Cat",
+      "author": "Gasetinh",
+      "version": "1.0.0",
+      "summary": "a cute cat",
+      "description": "theme cat này thay đổi dial bàn phím quay số mà không cần jailbreak",
+      "category": "Patch",
+      "tags": [
+        "Patch"
+      ],
+      "icon": "assets/IMG_0470.png",
+      "screenshots": [
+        "assets/IMG_0470.png",
+        "assets/IMG_0469.png"
+      ],
+      "download": "packages/Cutecat.3105",
+      "sha256": "8aa93792a87c8bb2924a44cdbbe462627e95fd4e1e6cf7107d1d2a672de9c085",
+      "size": 371968,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
