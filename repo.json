@@ -656,7 +656,8 @@
       "featured": false,
       "isPrivate": false
     },
-    {
+        {
+      "    {
       "identifier": "cutecat",
       "kind": "Dialers",
       "name": "Cute Cat Dialer",
@@ -698,6 +699,7 @@
       ],
       "featured": false,
       "isPrivate": false
+      }
+    ]
     }
-  ]
-}
+  
