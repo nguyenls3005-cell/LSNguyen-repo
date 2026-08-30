@@ -6,26 +6,25 @@
   "icon": "assets/IMG_0358.png",
   "packages": [
     {
-      "identifier": "Chika-wallpaper",
+      "identifier": "Deafult-apple-wallpaper",
       "kind": "wallpaper",
-      "name": "Chika Wallpaper",
-      "author": "Chinese",
+      "name": "Deafult Apple Wallpaper",
+      "author": "Apple",
       "version": "1.0.0",
-      "summary": "tendies xinh xắn✨",
-      "description": "Tendies Chikawa siêu xinh dành cho những người yêu Chikawa❤️",
-      "category": "Wallpaper",
+      "summary": "the first tendies by Apple in collect",
+      "description": "First Apple Wallpaper",
+      "category": "Apple",
       "tags": [
-        "Wallpaper",
-        "Custom"
+        "Apple",
+        "Wallpaper"
       ],
-      "icon": "assets/IMG_0339.png",
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/Defaults.png",
       "screenshots": [
-        "assets/IMG_0345.png",
-        "assets/IMG_0361.png"
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/Defaults.png"
       ],
-      "download": "packages/xiaoba.tendies",
-      "sha256": "e7bf33a85304a61e1d9174fb72dc3d1499cae6e12db267e1c13df39c13ba7248",
-      "size": 14533669,
+      "download": "packages/Defaults.tendies",
+      "sha256": "ef7a823847f6a9f73fd019074695db0d99172a048f840228b0db2f3205765e5b",
+      "size": 12587406,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -200,6 +199,50 @@
       "download": "packages/Autumn_City.tendies",
       "sha256": "7eb285e89acd8f709a2e2ff5d02ed150e0c7028dc176ca92cb5e1c5795d28da3",
       "size": 721338,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Chika-Wallpaper",
+      "kind": "wallpaper",
+      "name": "Chika Wallpaper",
+      "author": "Chinese",
+      "version": "1.0.0",
+      "summary": "Hình nền Chikawa siêu cute✨ ",
+      "description": "Phù hợp với các chị em",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0339.png",
+      "screenshots": [
+        "assets/IMG_0345.png",
+        "assets/IMG_0361.png"
+      ],
+      "download": "packages/xiaoba.tendies",
+      "sha256": "e7bf33a85304a61e1d9174fb72dc3d1499cae6e12db267e1c13df39c13ba7248",
+      "size": 14533669,
       "supportedOS": [
         {
           "minimum": "17.0",
