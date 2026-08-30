@@ -1,0 +1,5396 @@
+{
+  "schemaVersion": 1,
+  "identifier": "com.yangjiii.3105",
+  "name": "3105 Repository",
+  "description": "Nguồn chính thức cho hệ thống repository của 3105.",
+  "icon": "assets/repository-icon.png",
+  "packages": [
+    {
+      "identifier": "capcut-pro",
+      "name": "Capcut Pro",
+      "author": "YangJiii",
+      "version": "1.0.0",
+      "summary": "Share Freee.",
+      "description": "Nâng CapCut lên Pro.\nVui lòng không đăng nhập tài khoản CapCut.",
+      "category": "Testing",
+      "tags": [
+        "Application"
+      ],
+      "publishedAt": "2026-08-21T10:00:00Z",
+      "icon": "assets/capcut-pro.png",
+      "screenshots": [
+        "assets/preview-light.png",
+        "assets/preview-dark.png"
+      ],
+      "download": "packages/CapcutPro.3105",
+      "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
+      "size": 34303,
+      "password": "3105",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Nguồn thử nghiệm đầu tiên với mô tả và gallery ảnh preview.",
+      "featured": true,
+      "isPrivate": false
+    },
+    {
+      "identifier": "cute-cat-dialer",
+      "name": "Cute Cat Dialer",
+      "author": "ABC",
+      "version": "1.0.0",
+      "summary": "Share Freee.",
+      "description": "Bàn Phím Dialer",
+      "category": "Testing",
+      "tags": [
+        "Dialer"
+      ],
+      "publishedAt": "2026-08-21T10:00:00Z",
+      "icon": "assets/capcut-pro.png",
+      "screenshots": [
+        "assets/preview-light.png",
+        "assets/preview-dark.png"
+      ],
+      "download": "packages/CuteCat.3105pass",
+      "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
+      "size": 34303,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Nguồn thử nghiệm đầu tiên với mô tả và gallery ảnh preview.",
+      "featured": true,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-0",
+      "kind": "wallpaper",
+      "name": "Default Wallpapers",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Default Collections wallpapers",
+      "description": "Default Collections wallpapers\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/Defaults.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/Defaults.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/Defaults.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-31",
+      "kind": "wallpaper",
+      "name": "iPhone 17e",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "*iOS 26.3.1+",
+      "description": "*iOS 26.3.1+\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone17e.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone17e.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone17e.tendies",
+      "supportedOS": [
+        {
+          "minimum": "26.3.1",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-30",
+      "kind": "wallpaper",
+      "name": "iPhone Air",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "*15 Pro or newer, iOS 26+",
+      "description": "*15 Pro or newer, iOS 26+\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhoneAir.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhoneAir.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone%20Air.tendies",
+      "supportedOS": [
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-29",
+      "kind": "wallpaper",
+      "name": "iPhone 17 Pro",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "*iOS 26+",
+      "description": "*iOS 26+\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone17Pro.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone17Pro.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone%2017%20Pro.tendies",
+      "supportedOS": [
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-28",
+      "kind": "wallpaper",
+      "name": "iPhone 17",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "*iOS 26+",
+      "description": "*iOS 26+\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone17.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone17.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone%2017.tendies",
+      "supportedOS": [
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-27",
+      "kind": "wallpaper",
+      "name": "iPhone 16 Pro",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "*15 Pro or newer, iOS 18+",
+      "description": "*15 Pro or newer, iOS 18+\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone16Pro.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone16Pro.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone%2016%20Pro.tendies",
+      "supportedOS": [
+        {
+          "minimum": "18.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-26",
+      "kind": "wallpaper",
+      "name": "iPhone 16",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "*iOS 18+",
+      "description": "*iOS 18+\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone16.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone16.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone%2016.tendies",
+      "supportedOS": [
+        {
+          "minimum": "18.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-24",
+      "kind": "wallpaper",
+      "name": "iPhone 16e",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "*iOS 18+",
+      "description": "*iOS 18+\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone16e.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone16e.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone%2016e.tendies",
+      "supportedOS": [
+        {
+          "minimum": "18.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-23",
+      "kind": "wallpaper",
+      "name": "iPhone 15 Pro",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone15Pro.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone15Pro.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone15Pro.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-22",
+      "kind": "wallpaper",
+      "name": "iPhone 15",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone15.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone15.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone15.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-21",
+      "kind": "wallpaper",
+      "name": "iPhone 14 Pro",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone14Pro.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone14Pro.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone14Pro.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-20",
+      "kind": "wallpaper",
+      "name": "iPhone 14",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone14.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone14.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone14.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-19",
+      "kind": "wallpaper",
+      "name": "iPhone SE 3rd Gen",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhoneSEGen3.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhoneSEGen3.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhoneSEGen3.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-14",
+      "kind": "wallpaper",
+      "name": "iPhone SE 2nd Gen",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhoneSEGen2.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhoneSEGen2.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhoneSEGen2.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-12",
+      "kind": "wallpaper",
+      "name": "iPhone 11",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone11.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone11.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone11.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-11",
+      "kind": "wallpaper",
+      "name": "iPad mini 6th Gen",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadMiniGen6.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadMiniGen6.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPadMiniGen6.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-10",
+      "kind": "wallpaper",
+      "name": "iPad Air 6th Gen",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadAirGen6.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadAirGen6.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPadAirGen6.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-9",
+      "kind": "wallpaper",
+      "name": "iPad Air 5th Gen",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadAirGen5.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadAirGen5.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPadAirGen5.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-8",
+      "kind": "wallpaper",
+      "name": "iPad Air 4th Gen",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadAirGen4.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadAirGen4.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPadAirGen4.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-7",
+      "kind": "wallpaper",
+      "name": "iOS 17",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS17.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS17.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iOS17.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-6",
+      "kind": "wallpaper",
+      "name": "iOS 16",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS16.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS16.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iOS16.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-5",
+      "kind": "wallpaper",
+      "name": "iOS 15",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS15.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS15.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iOS15.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-4",
+      "kind": "wallpaper",
+      "name": "Lake (iOS 14)",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/Lake.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/Lake.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/Lake.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-3",
+      "kind": "wallpaper",
+      "name": "Desert",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/Desert.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/Desert.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/Desert.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-2",
+      "kind": "wallpaper",
+      "name": "iOS 14",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS14.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS14.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iOS14.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-1",
+      "kind": "wallpaper",
+      "name": "iOS 13",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS13.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS13.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iOS13.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-113",
+      "kind": "wallpaper",
+      "name": "Cipher",
+      "author": "@mightycooldude12",
+      "version": "1.0.0",
+      "summary": "Decoding...",
+      "description": "Decoding...\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Cipher.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Cipher.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Cipher.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-112",
+      "kind": "wallpaper",
+      "name": "Simple Minecraft Chest",
+      "author": "@tayvall",
+      "version": "1.0.0",
+      "summary": "Open the chest!",
+      "description": "Open the chest!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SimpleMinecraftChest.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SimpleMinecraftChest.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/SimpleMinecraftChest.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-110",
+      "kind": "wallpaper",
+      "name": "Super Mario Bros.",
+      "author": "@squair.dev",
+      "version": "1.0.0",
+      "summary": "Play Super Mario Bros. on your lock screen!",
+      "description": "Play Super Mario Bros. on your lock screen!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SuperMarioBros.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SuperMarioBros.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/SuperMarioBros.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-109",
+      "kind": "wallpaper",
+      "name": "Apollo 15",
+      "author": "@qaztar",
+      "version": "1.0.0",
+      "summary": "Woah... the Apollo 15 mission!",
+      "description": "Woah... the Apollo 15 mission!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Apollo15.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Apollo15.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Apollo15.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-108",
+      "kind": "wallpaper",
+      "name": "Rolling Hills",
+      "author": "@i.mes",
+      "version": "1.0.0",
+      "summary": "boink boink boink",
+      "description": "boink boink boink\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/RollingHills.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/RollingHills.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/RollingHills.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-107",
+      "kind": "wallpaper",
+      "name": "Where's Waldo?",
+      "author": "@trinityhades",
+      "version": "1.0.0",
+      "summary": "Do you know where Waldo is?",
+      "description": "Do you know where Waldo is?\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/WheresWaldo.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/WheresWaldo.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/WheresWaldo.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-106",
+      "kind": "wallpaper",
+      "name": "DVD Screensaver",
+      "author": "@mightycooldude12",
+      "version": "1.0.0",
+      "summary": "It hits the corner!",
+      "description": "It hits the corner!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/DVDcolor.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/DVDcolor.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/DVDcolor.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-105",
+      "kind": "wallpaper",
+      "name": "Black Hole",
+      "author": "@i.mes",
+      "version": "1.0.0",
+      "summary": "Cool, beautiful, and strong.",
+      "description": "Cool, beautiful, and strong.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/BlackHole.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/BlackHole.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/BlackHole.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-104",
+      "kind": "wallpaper",
+      "name": "Cat Volleyball",
+      "author": "@c4ndyf1sh",
+      "version": "1.0.0",
+      "summary": "Hapi Hapi Hapi",
+      "description": "Hapi Hapi Hapi\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/catvolleyball-lite.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/catvolleyball-lite.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/catvolleyball-lite.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-103",
+      "kind": "wallpaper",
+      "name": "Animal Crossing Seasons",
+      "author": "@dootskyre",
+      "version": "1.0.0",
+      "summary": "Based on the Animal Crossing New Horizons loading screen, an always animated wallpaper with 5 seasonal light/dark variants!",
+      "description": "Based on the Animal Crossing New Horizons loading screen, an always animated wallpaper with 5 seasonal light/dark variants!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/AnimalCrossingSeasons.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/AnimalCrossingSeasons.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/AnimalCrossingSeasons.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-117",
+      "kind": "wallpaper",
+      "name": "Xiaomi YU7",
+      "author": "@leopoldchou",
+      "version": "1.0.0",
+      "summary": "Explore with Xiaomi YU7. Supports AoD animation",
+      "description": "Explore with Xiaomi YU7. Supports AoD animation\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Xiaomi-YU7.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Xiaomi-YU7.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Xiaomi-YU7.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-116",
+      "kind": "wallpaper",
+      "name": "iOS_INTERNAL",
+      "author": "@squair.dev",
+      "version": "1.0.0",
+      "summary": "Jailbreak?",
+      "description": "Jailbreak?\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Static_iOS_Internal.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Static_iOS_Internal.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Static_iOS_Internal.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-114",
+      "kind": "wallpaper",
+      "name": "Wave Hills",
+      "author": "@squair.dev",
+      "version": "1.0.0",
+      "summary": "Flowing waves across your screen!",
+      "description": "Flowing waves across your screen!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Waves_Bundle_Static.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Waves_Bundle_Static.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Waves_Bundle_Static.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-115",
+      "kind": "wallpaper",
+      "name": "Wave Hills (Gyro)",
+      "author": "@squair.dev",
+      "version": "1.0.0",
+      "summary": "Flowing waves across your screen! (iOS 26RC+)",
+      "description": "Flowing waves across your screen! (iOS 26RC+)\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Waves_Bundle_Gyro.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Waves_Bundle_Gyro.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Waves_Bundle_Gyro.tendies",
+      "supportedOS": [
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-102",
+      "kind": "wallpaper",
+      "name": "Purple Shapes",
+      "author": "Spy_g",
+      "version": "1.0.0",
+      "summary": "Purple gradients",
+      "description": "Purple gradients\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/PurpleShapes.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/PurpleShapes.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/PurpleShapes.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-101",
+      "kind": "wallpaper",
+      "name": "Dark Scenery",
+      "author": "Spy_g",
+      "version": "1.0.0",
+      "summary": "A dark forrest with emmiters",
+      "description": "A dark forrest with emmiters\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Dark.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Dark.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Dark.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-100",
+      "kind": "wallpaper",
+      "name": "Chrome Hearts",
+      "author": "@lordrezon",
+      "version": "1.0.0",
+      "summary": "Has AOD",
+      "description": "Has AOD\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/ChromeHearts.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/ChromeHearts.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Crome-Hearts-v2.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-99",
+      "kind": "wallpaper",
+      "name": "Kakurenbo",
+      "author": "@Rhyru9",
+      "version": "1.0.0",
+      "summary": "Someone's watching you...",
+      "description": "Someone's watching you...\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/KakuRenbo.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/KakuRenbo.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/KakuRenbo.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-98",
+      "kind": "wallpaper",
+      "name": "Bowser Jr.",
+      "author": "Aperaine",
+      "version": "1.0.0",
+      "summary": "Has a light mode and dark mode",
+      "description": "Has a light mode and dark mode\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/BowserJr.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/BowserJr.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Bowser-Jr.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-97",
+      "kind": "wallpaper",
+      "name": "Autumn City",
+      "author": "nNPC",
+      "version": "1.0.0",
+      "summary": "Autumn themed wallpaper with falling leaves",
+      "description": "Autumn themed wallpaper with falling leaves\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/AutumnCity.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/AutumnCity.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/AutumnCity.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-96",
+      "kind": "wallpaper",
+      "name": "Flappy Bird",
+      "author": "@squair.dev",
+      "version": "1.0.0",
+      "summary": "A simple flappy bird game!",
+      "description": "A simple flappy bird game!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/FlappyBird.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/FlappyBird.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/FlappyBird.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-95",
+      "kind": "wallpaper",
+      "name": "FrutigerAeroV1",
+      "author": "@devwithoutcod1ng",
+      "version": "1.0.0",
+      "summary": "A Wallpaper based on the Frutiger Areo Style",
+      "description": "A Wallpaper based on the Frutiger Areo Style\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/FrutigerAeroV1.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/FrutigerAeroV1.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/FrutigerAeroV1.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-94",
+      "kind": "wallpaper",
+      "name": "Playboi Carti - Die Lit",
+      "author": "@tankhalfempty.",
+      "version": "1.0.0",
+      "summary": "Animated album art from Playboi Carti's 2018 album Die Lit",
+      "description": "Animated album art from Playboi Carti's 2018 album Die Lit\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/PlayboiCarti-DieLit.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/PlayboiCarti-DieLit.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/PlayboiCarti-DieLit.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-93",
+      "kind": "wallpaper",
+      "name": "Exploding Colors",
+      "author": "@squair.dev",
+      "version": "1.0.0",
+      "summary": "Some cool colors exploding on your screen!",
+      "description": "Some cool colors exploding on your screen!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/ExplodingColors.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/ExplodingColors.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/ExplodingColors.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-92",
+      "kind": "wallpaper",
+      "name": "Gyro Depths",
+      "author": "@dootskyre",
+      "version": "1.0.0",
+      "summary": "A wave-based gyro wallpaper! (iOS 26+)",
+      "description": "A wave-based gyro wallpaper! (iOS 26+)\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/GyroDepths.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/GyroDepths.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/GyroDepths.tendies",
+      "supportedOS": [
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-91",
+      "kind": "wallpaper",
+      "name": "Flappy Bird V2",
+      "author": "@squair.dev",
+      "version": "1.0.0",
+      "summary": "Now with gyro! (iOS 26RC+)",
+      "description": "Now with gyro! (iOS 26RC+)\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/FlappyBirdV2.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/FlappyBirdV2.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/FlappyBirdV2.tendies",
+      "supportedOS": [
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-90",
+      "kind": "wallpaper",
+      "name": "GitHub",
+      "author": "@enkei64",
+      "version": "1.0.0",
+      "summary": "First wallpaper made in CAPlayground",
+      "description": "First wallpaper made in CAPlayground\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/GitHub-wallpaper.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/GitHub-wallpaper.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/GitHub.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-89",
+      "kind": "wallpaper",
+      "name": "MOJO Carrot",
+      "author": "@dularkian on GitHub",
+      "version": "1.0.0",
+      "summary": "It uses device motion to look around. Big MOJO! (iOS 26+)",
+      "description": "It uses device motion to look around. Big MOJO! (iOS 26+)\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/MOJOCarrot.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/MOJOCarrot.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/MOJOCARROT.tendies",
+      "supportedOS": [
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-88",
+      "kind": "wallpaper",
+      "name": "Kanye West",
+      "author": "retronbv",
+      "version": "1.0.0",
+      "summary": "Animated wallpaper for the legendary Hip-Hop artist Kanye West",
+      "description": "Animated wallpaper for the legendary Hip-Hop artist Kanye West\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/kanyewest.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/kanyewest.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/kanyewest.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-87",
+      "kind": "wallpaper",
+      "name": "Persona 4 Teddie",
+      "author": "@aaqil.",
+      "version": "1.0.0",
+      "summary": "Teddie!",
+      "description": "Teddie!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/TeddieP4Golden.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/TeddieP4Golden.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/TeddieP4Golden.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-86",
+      "kind": "wallpaper",
+      "name": "Dean Blunt - Zushi",
+      "author": "@ok.komo",
+      "version": "1.0.0",
+      "summary": "Dragon",
+      "description": "Dragon\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/DeanBluntZushi.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/DeanBluntZushi.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/DeanBluntZushi.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-85",
+      "kind": "wallpaper",
+      "name": "Persona 3 FeMC",
+      "author": "Ty and Co.",
+      "version": "1.0.0",
+      "summary": "Persona 3 FeMC menu wallpaper",
+      "description": "Persona 3 FeMC menu wallpaper\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/P3FEMCTheme.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/P3FEMCTheme.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/P3FEMCTheme.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-84",
+      "kind": "wallpaper",
+      "name": "Persona 5 Royal",
+      "author": "Ty and Co.",
+      "version": "1.0.0",
+      "summary": "Persona 5 Royal menu wallpaper",
+      "description": "Persona 5 Royal menu wallpaper\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/P5RTheme.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/P5RTheme.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/P5RTheme.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-83",
+      "kind": "wallpaper",
+      "name": "Cubes!",
+      "author": "@ok.komo",
+      "version": "1.0.0",
+      "summary": "Moving cubes!",
+      "description": "Moving cubes!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Cubes.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Cubes.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Cubes.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-82",
+      "kind": "wallpaper",
+      "name": "AltStore",
+      "author": "@ok.komo",
+      "version": "1.0.0",
+      "summary": "Yeah... AltStore.",
+      "description": "Yeah... AltStore.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/AltStore.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/AltStore.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/AltStore.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-81",
+      "kind": "wallpaper",
+      "name": "Event Horizon",
+      "author": "@stpotato",
+      "version": "1.0.0",
+      "summary": "Just look how beautiful it is.",
+      "description": "Just look how beautiful it is.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/EventHorizon.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/EventHorizon.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/EventHorizon.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-80",
+      "kind": "wallpaper",
+      "name": "Lofi",
+      "author": "@mightycooldude12",
+      "version": "1.0.0",
+      "summary": "Just relax...",
+      "description": "Just relax...\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Lofi.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Lofi.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Lofi.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-79",
+      "kind": "wallpaper",
+      "name": "Mario Gamer",
+      "author": "@ip1.1.1.1",
+      "version": "1.0.0",
+      "summary": "Gamer Mario",
+      "description": "Gamer Mario\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/MarioGamer.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/MarioGamer.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/MarioGamer.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-78",
+      "kind": "wallpaper",
+      "name": "HarmonyOS Emoji",
+      "author": "@yangjiii",
+      "version": "1.0.0",
+      "summary": "Inspired by the Emoji wallpaper on HarmonyOS",
+      "description": "Inspired by the Emoji wallpaper on HarmonyOS\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/HarmonyOSEmoji.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/HarmonyOSEmoji.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/HarmonyOSEmoji.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-77",
+      "kind": "wallpaper",
+      "name": "Persona 3 Reload (pause menu)",
+      "author": "@bebebole",
+      "version": "1.0.0",
+      "summary": "Your phone is now a game.",
+      "description": "Your phone is now a game.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Persona3.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Persona3.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Persona3.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-0",
+      "kind": "wallpaper",
+      "name": "Wii Homebrew Channel",
+      "author": "@dootskyre",
+      "version": "1.0.0",
+      "summary": "The Wii Homebrew Channel banner as your wallpaper!",
+      "description": "The Wii Homebrew Channel banner as your wallpaper!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/HomebrewChannel.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/HomebrewChannel.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/HomebrewChannel.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-1",
+      "kind": "wallpaper",
+      "name": "Wii Homebrew Channel Red",
+      "author": "@dootskyre",
+      "version": "1.0.0",
+      "summary": "The Wii Homebrew Channel banner but in red as your wallpaper! Look who found me!",
+      "description": "The Wii Homebrew Channel banner but in red as your wallpaper! Look who found me!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/HomebrewChannelRed.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/HomebrewChannelRed.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/HomebrewChannelRed.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-3",
+      "kind": "wallpaper",
+      "name": "WiiBeer",
+      "author": "@dootskyre",
+      "version": "1.0.0",
+      "summary": "A color swap reminiscent of the old iBeer app! Look who wants to drink me!",
+      "description": "A color swap reminiscent of the old iBeer app! Look who wants to drink me!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/WiiBeer.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/WiiBeer.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/WiiBeer.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-76",
+      "kind": "wallpaper",
+      "name": "Final Resting Place",
+      "author": "trinityhades",
+      "version": "1.0.0",
+      "summary": "Glimpse into the future",
+      "description": "Glimpse into the future\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/TrinityHadesSkeletonBoy.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/TrinityHadesSkeletonBoy.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/TrinityHadesSkeletonBoy.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-75",
+      "kind": "wallpaper",
+      "name": "Space",
+      "author": "@_systemless",
+      "version": "1.0.0",
+      "summary": "The Space!",
+      "description": "The Space!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Space.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Space.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Space.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-74",
+      "kind": "wallpaper",
+      "name": "Among Us",
+      "author": "@LeminLimez",
+      "version": "1.0.0",
+      "summary": "The Space! Wait, what's that?",
+      "description": "The Space! Wait, what's that?\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Amogus.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Amogus.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Amogus.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-73",
+      "kind": "wallpaper",
+      "name": "iOS 6 Revamp",
+      "author": "@dularkian on GitHub",
+      "version": "1.0.0",
+      "summary": "Pretend like your phone is on iOS 6 again!",
+      "description": "Pretend like your phone is on iOS 6 again!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/iOS6Revamp.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/iOS6Revamp.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/iOS6Revamp.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-72",
+      "kind": "wallpaper",
+      "name": "Minecraft Panorama",
+      "author": "@pengubow",
+      "version": "1.0.0",
+      "summary": "A scrolling panorama from Minecraft as your wallpaper!",
+      "description": "A scrolling panorama from Minecraft as your wallpaper!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/MCPanorama.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/MCPanorama.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/MCPanorama.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-71",
+      "kind": "wallpaper",
+      "name": "Sakura Tree",
+      "author": "@jam_minty",
+      "version": "1.0.0",
+      "summary": "A beautiful Sakura tree with leaves falling!",
+      "description": "A beautiful Sakura tree with leaves falling!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Sakura.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Sakura.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Sakura.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-70",
+      "kind": "wallpaper",
+      "name": "Splatoon",
+      "author": "@dularkian on GitHub",
+      "version": "1.0.0",
+      "summary": "A wallpaper based on Splatoon featuring Callie and Marie!",
+      "description": "A wallpaper based on Splatoon featuring Callie and Marie!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Splatoon.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Splatoon.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Splatoon-SquidSisters.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-69",
+      "kind": "wallpaper",
+      "name": "Mario Galaxy",
+      "author": "@dootskyre",
+      "version": "1.0.0",
+      "summary": "A wallpaper based on Super Mario Galaxy!",
+      "description": "A wallpaper based on Super Mario Galaxy!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/galaxy.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/galaxy.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/MarioGalaxy.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-68",
+      "kind": "wallpaper",
+      "name": "MarioYoshi",
+      "author": "@jordrixx",
+      "version": "1.0.0",
+      "summary": "A wallpaper based on Super Mario with Yoshi!",
+      "description": "A wallpaper based on Super Mario with Yoshi!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/MarioYoshi.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/MarioYoshi.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/MarioYoshi.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-67",
+      "kind": "wallpaper",
+      "name": "Tinted Cubes",
+      "author": "@dootskyre",
+      "version": "1.0.0",
+      "summary": "Constantly rotating cubes with a spectrum of colors for your wallpaper!",
+      "description": "Constantly rotating cubes with a spectrum of colors for your wallpaper!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/TintedCubes.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/TintedCubes.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/TintedCubes.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-66",
+      "kind": "wallpaper",
+      "name": "Rainbow Sprinkles",
+      "author": "@dootskyre",
+      "version": "1.0.0",
+      "summary": "Semi-based on the old pride wallpapers, rainbow sprinkles fly upwards like confetti on this wallpaper.",
+      "description": "Semi-based on the old pride wallpapers, rainbow sprinkles fly upwards like confetti on this wallpaper.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/sprinkles.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/sprinkles.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/RainbowSprinkles.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-65",
+      "kind": "wallpaper",
+      "name": "Balatro",
+      "author": "@dularkian on GitHub",
+      "version": "1.0.0",
+      "summary": "A wallpaper based on the background of Balatro! You can optionally pixelate the time with the Depth Effect.",
+      "description": "A wallpaper based on the background of Balatro! You can optionally pixelate the time with the Depth Effect.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/balatro.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/balatro.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/BalatroMenu.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-64",
+      "kind": "wallpaper",
+      "name": "Boykisser",
+      "author": "@ch_eese on Discord",
+      "version": "1.0.0",
+      "summary": "Boykisser all over your screen",
+      "description": "Boykisser all over your screen\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/boykisser.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/boykisser.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/boykisser.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-63",
+      "kind": "wallpaper",
+      "name": "iOS Backup Things Logo",
+      "author": "@dularkian on GitHub",
+      "version": "1.0.0",
+      "summary": "iOS Backup Things logo as your wallpaper!",
+      "description": "iOS Backup Things logo as your wallpaper!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/iOSBackupThings.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/iOSBackupThings.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/iOSBackupThings.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-62",
+      "kind": "wallpaper",
+      "name": "Snoopy",
+      "author": "@daredvl",
+      "version": "1.0.0",
+      "summary": "A matching wallpaper for the tvOS and watchOS Snoopy wallpapers!",
+      "description": "A matching wallpaper for the tvOS and watchOS Snoopy wallpapers!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Snoopy.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Snoopy.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Snoopy.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-61",
+      "kind": "wallpaper",
+      "name": "Aqua Collection",
+      "author": "@dularkian on GitHub",
+      "version": "1.0.0",
+      "summary": "4 different Aqua themed wallpapers with an optional custom time-warp effect!",
+      "description": "4 different Aqua themed wallpapers with an optional custom time-warp effect!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/AquaCollection.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/AquaCollection.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/AquaCollection.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-60",
+      "kind": "wallpaper",
+      "name": "iPhone 15 Sea Glass Collection",
+      "author": "@applintrnl",
+      "version": "1.0.0",
+      "summary": "iOS 18 or higher required",
+      "description": "iOS 18 or higher required\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/images/iPhone15SeaGlass.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/images/iPhone15SeaGlass.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/iPhone15SeaGlass.tendies",
+      "supportedOS": [
+        {
+          "minimum": "18.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-59",
+      "kind": "wallpaper",
+      "name": "SpinningGear",
+      "author": "@applintrnl",
+      "version": "1.0.0",
+      "summary": "Switchboard real",
+      "description": "Switchboard real\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SpinningGear.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SpinningGear.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/SpinningGear.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-58",
+      "kind": "wallpaper",
+      "name": "15 Pro Color Collection",
+      "author": "@applintrnl",
+      "version": "1.0.0",
+      "summary": "The 15 Pro wallpaper in stunning new colors! (Does not change your 15 Pro's color)",
+      "description": "The 15 Pro wallpaper in stunning new colors! (Does not change your 15 Pro's color)\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/images/iPhone15ProColorCollection.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/images/iPhone15ProColorCollection.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/iPhone15ProColorCollection.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-57",
+      "kind": "wallpaper",
+      "name": "🗿",
+      "author": "@forcequitOS",
+      "version": "1.0.0",
+      "summary": "Rickroll + Bad Apple as Live Photos - These will appear in Suggested Photos",
+      "description": "Rickroll + Bad Apple as Live Photos - These will appear in Suggested Photos\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/images/RickApple.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/images/RickApple.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/RickApple.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-56",
+      "kind": "wallpaper",
+      "name": "Apple Logo",
+      "author": "@jam_minty",
+      "version": "1.0.0",
+      "summary": "An animated RGB Apple logo for your background!",
+      "description": "An animated RGB Apple logo for your background!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/AppleLogo.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/AppleLogo.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/AppleLogo.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-55",
+      "kind": "wallpaper",
+      "name": "iSoda",
+      "author": "@jam_minty",
+      "version": "1.0.0",
+      "summary": "A color swap reminiscent of popular sodas! Look who wants to drink me!",
+      "description": "A color swap reminiscent of popular sodas! Look who wants to drink me!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/iSoda.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/iSoda.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/iSoda.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-54",
+      "kind": "wallpaper",
+      "name": "Nexus",
+      "author": "@bebebole",
+      "version": "1.0.0",
+      "summary": "A remake of the android nexus wallpaper.",
+      "description": "A remake of the android nexus wallpaper.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Nexus.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Nexus.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Nexus.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-53",
+      "kind": "wallpaper",
+      "name": "Midnight Brisa",
+      "author": "@limonetexd",
+      "version": "1.0.0",
+      "summary": "Purple and blue gradient waves.",
+      "description": "Purple and blue gradient waves.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/MidnightBrisa.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/MidnightBrisa.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/MidnightBrisa.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-52",
+      "kind": "wallpaper",
+      "name": "Stars",
+      "author": "@kukuruzka165",
+      "version": "1.0.0",
+      "summary": "Something with stars.",
+      "description": "Something with stars.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Stars.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Stars.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Stars.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-51",
+      "kind": "wallpaper",
+      "name": "Swelvy",
+      "author": "@anhnguyenlost13",
+      "version": "1.0.0",
+      "summary": "Assets taken from Geode SDK.",
+      "description": "Assets taken from Geode SDK.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Swelvy.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Swelvy.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Swelvy.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-50",
+      "kind": "wallpaper",
+      "name": "Graduation",
+      "author": "@ROWNIE & @Mars",
+      "version": "1.0.0",
+      "summary": "But he made Graduation!",
+      "description": "But he made Graduation!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Graduation.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Graduation.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Graduation.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-49",
+      "kind": "wallpaper",
+      "name": "Patrick on a Seahorse",
+      "author": "@ellibarks",
+      "version": "1.0.0",
+      "summary": "Patricc vibing on da seahorse",
+      "description": "Patricc vibing on da seahorse\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/PatrickSeahorse.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/PatrickSeahorse.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/PatrickSeahorse.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-48",
+      "kind": "wallpaper",
+      "name": "Nintendo Switch",
+      "author": "@c4ndyf1sh",
+      "version": "1.0.0",
+      "summary": "You better switch up that attitude or wii are gonna have a problem.",
+      "description": "You better switch up that attitude or wii are gonna have a problem.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/NintendoSwitch.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/NintendoSwitch.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/NintendoSwitch.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-47",
+      "kind": "wallpaper",
+      "name": "Flower Boy",
+      "author": "@softminted_",
+      "version": "1.0.0",
+      "summary": "Flower Boy by Tyler, The Creator (2017)",
+      "description": "Flower Boy by Tyler, The Creator (2017)\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/FlowerBoy.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/FlowerBoy.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/flower_boy_v1.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-46",
+      "kind": "wallpaper",
+      "name": "Purple Wave",
+      "author": "@cgbakery",
+      "version": "1.0.0",
+      "summary": "Just a purple wave",
+      "description": "Just a purple wave\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/PurpleWave.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/PurpleWave.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/wave.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-45",
+      "kind": "wallpaper",
+      "name": "Black Goku",
+      "author": "@yangjiii",
+      "version": "1.0.0",
+      "summary": "Reveal your true powers.",
+      "description": "Reveal your true powers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/BlackGoku.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/BlackGoku.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/BlackGoku.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-44",
+      "kind": "wallpaper",
+      "name": "Broken Screen",
+      "author": "@jam_minty",
+      "version": "1.0.0",
+      "summary": "YOU BROKE MY SCREEN!",
+      "description": "YOU BROKE MY SCREEN!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/BrokenScreen.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/BrokenScreen.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/BrokenScreen.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-43",
+      "kind": "wallpaper",
+      "name": "Desert",
+      "author": "@yangjiii",
+      "version": "1.0.0",
+      "summary": "In the desert",
+      "description": "In the desert\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Desert.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Desert.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Desert.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-42",
+      "kind": "wallpaper",
+      "name": "FatCat",
+      "author": "@thefelix32",
+      "version": "1.0.0",
+      "summary": "A Wallpaper based on a fat cat meme",
+      "description": "A Wallpaper based on a fat cat meme\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/FatCat.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/FatCat.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/FatCat.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-41",
+      "kind": "wallpaper",
+      "name": "Dragon Ball",
+      "author": "@thefelix324",
+      "version": "1.0.0",
+      "summary": "A Wallpaper based on Dragonball",
+      "description": "A Wallpaper based on Dragonball\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Dragonball.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Dragonball.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Dragonball.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-40",
+      "kind": "wallpaper",
+      "name": "Honor Magic V Flip",
+      "author": "@yangjiii",
+      "version": "1.0.0",
+      "summary": "Cute!",
+      "description": "Cute!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/HonorMagicVFlip.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/HonorMagicVFlip.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/HonorMagicVFlip.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-39",
+      "kind": "wallpaper",
+      "name": "Skeleton",
+      "author": "@rezanen",
+      "version": "1.0.0",
+      "summary": "Peace, my friend.",
+      "description": "Peace, my friend.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Skelet.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Skelet.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Skelet.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-38",
+      "kind": "wallpaper",
+      "name": "Stonks Up",
+      "author": "@jam_minty",
+      "version": "1.0.0",
+      "summary": "YES!",
+      "description": "YES!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/StonksUp.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/StonksUp.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/StonksUp.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-37",
+      "kind": "wallpaper",
+      "name": "Stonks Down",
+      "author": "@jam_minty",
+      "version": "1.0.0",
+      "summary": "NO!",
+      "description": "NO!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/StonksDown.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/StonksDown.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/StonksDown.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-36",
+      "kind": "wallpaper",
+      "name": "I am in.",
+      "author": "@i.mes",
+      "version": "1.0.0",
+      "summary": "$%@!",
+      "description": "$%@!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/i_am_in.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/i_am_in.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/i_am_in.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-35",
+      "kind": "wallpaper",
+      "name": "Neon Lines",
+      "author": "@i.mes",
+      "version": "1.0.0",
+      "summary": "Based on Wallpaper Engine > Workshop > Snow's Workshop > Neon Lines | 4K on Steam",
+      "description": "Based on Wallpaper Engine > Workshop > Snow's Workshop > Neon Lines | 4K on Steam\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/neon_lines.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/neon_lines.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/neon_lines.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-34",
+      "kind": "wallpaper",
+      "name": "Orbital",
+      "author": "@luctilus",
+      "version": "1.0.0",
+      "summary": "Just like a door.",
+      "description": "Just like a door.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/orbitalv1.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/orbitalv1.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/orbitalv1.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-30",
+      "kind": "wallpaper",
+      "name": "Ubuntu",
+      "author": "@mak5er",
+      "version": "1.0.0",
+      "summary": "Linux..?",
+      "description": "Linux..?\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/ubuntu.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/ubuntu.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/ubuntu.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-29",
+      "kind": "wallpaper",
+      "name": "Wii boot/home",
+      "author": "@cgbakery",
+      "version": "1.0.0",
+      "summary": "*Wii Menu SFX*",
+      "description": "*Wii Menu SFX*\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/wiiFIX.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/wiiFIX.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/wiiFIX.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-28",
+      "kind": "wallpaper",
+      "name": "Windows 11",
+      "author": "@mak5er",
+      "version": "1.0.0",
+      "summary": "Windows Phones are back??",
+      "description": "Windows Phones are back??\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/windows11.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/windows11.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/windows11.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-27",
+      "kind": "wallpaper",
+      "name": "Sonic Mania Mirage Saloon",
+      "author": "semay",
+      "version": "1.0.0",
+      "summary": "Wallpaper of Mirage Saloon from Sonic Mania Fulfilled suggestion",
+      "description": "Wallpaper of Mirage Saloon from Sonic Mania Fulfilled suggestion\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SonicManiaMirageSaloon.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SonicManiaMirageSaloon.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/smania.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-26",
+      "kind": "wallpaper",
+      "name": "Persona 5 Menu Wallpaper",
+      "author": "TY and Co.",
+      "version": "1.0.0",
+      "summary": "Persona fans are gonna love this.",
+      "description": "Persona fans are gonna love this.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/P5Theme.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/P5Theme.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/P5Theme.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-25",
+      "kind": "wallpaper",
+      "name": "Lil Uzi Vert vs. The World",
+      "author": "@dularkian on GitHub",
+      "version": "1.0.0",
+      "summary": "Based off of the 2016 XXL Freshman's album they made that same year!",
+      "description": "Based off of the 2016 XXL Freshman's album they made that same year!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Lil_Uzi_Vert_Vs_The_World.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Lil_Uzi_Vert_Vs_The_World.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Lil_Uzi_Vert_Vs_The_World.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-24",
+      "kind": "wallpaper",
+      "name": "Persona 4 Wallpaper",
+      "author": "TY and Co.",
+      "version": "1.0.0",
+      "summary": "Looks better with Always On Display (i think).",
+      "description": "Looks better with Always On Display (i think).\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/P4Theme.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/P4Theme.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/P4Theme.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-23",
+      "kind": "wallpaper",
+      "name": "Persona 3 Classic Wallpaper",
+      "author": "TY and Co.",
+      "version": "1.0.0",
+      "summary": "This time it’s the classic UI. Not Reload.",
+      "description": "This time it’s the classic UI. Not Reload.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/P3ClassicTheme.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/P3ClassicTheme.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/P3ClassicTheme.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-22",
+      "kind": "wallpaper",
+      "name": "Sheikah Slate (Zelda BOTW)",
+      "author": "Vioxel",
+      "version": "1.0.0",
+      "summary": "The Sheikah Slate from BOTW for your iPhone!",
+      "description": "The Sheikah Slate from BOTW for your iPhone!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SheikahSlate.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SheikahSlate.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/SheikahSlate.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-21",
+      "kind": "wallpaper",
+      "name": "Sonic's Gang",
+      "author": "Vioxel",
+      "version": "1.0.0",
+      "summary": "Sonic, Knuckles, Amy, and Tails running across your screen!",
+      "description": "Sonic, Knuckles, Amy, and Tails running across your screen!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SonicsGang.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SonicsGang.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/SonicsGang.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-20",
+      "kind": "wallpaper",
+      "name": "Whole Lotta Red",
+      "author": "tankhalfempty",
+      "version": "1.0.0",
+      "summary": "Animated Artwork from Playboi Carti's 2020 Studio Album.",
+      "description": "Animated Artwork from Playboi Carti's 2020 Studio Album.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/WholeLottaRed.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/WholeLottaRed.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/WholeLottaRed.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-19",
+      "kind": "wallpaper",
+      "name": "Undertale Ruins Scrolling Wallpaper",
+      "author": "TY and Co.",
+      "version": "1.0.0",
+      "summary": "Ruins, now on your phone!",
+      "description": "Ruins, now on your phone!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/UndertaleRuinsScrolling.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/UndertaleRuinsScrolling.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/UndertaleRuins.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-18",
+      "kind": "wallpaper",
+      "name": "Kendrick Lamar: Damn.",
+      "author": "trinityhades",
+      "version": "1.0.0",
+      "summary": "DAMN. Kendrick cooked on this one.",
+      "description": "DAMN. Kendrick cooked on this one.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/DamnByTrinityHades.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/DamnByTrinityHades.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/DamnByTrinityHades.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-17",
+      "kind": "wallpaper",
+      "name": "Lumon Run v2",
+      "author": "trinityhades",
+      "version": "1.0.0",
+      "summary": "Your outie is scared.",
+      "description": "Your outie is scared.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/LumonRunv2Video.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/LumonRunv2Video.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/LumonRunv2TrinityHades.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-6",
+      "kind": "wallpaper",
+      "name": "Macrodata Refinement",
+      "author": "trinityhades",
+      "version": "1.0.0",
+      "summary": "Find the scary numbers.",
+      "description": "Find the scary numbers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/MacrodataRefinement.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/MacrodataRefinement.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/MacrodataRefinement.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-5",
+      "kind": "wallpaper",
+      "name": "Solar System",
+      "author": "@squair.dev",
+      "version": "1.0.0",
+      "summary": "Sun, earth, and moon.",
+      "description": "Sun, earth, and moon.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SolarSystem.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SolarSystem.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/SolarSystem.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-4",
+      "kind": "wallpaper",
+      "name": "Niko OneShot",
+      "author": "@squair.dev",
+      "version": "1.0.0",
+      "summary": "Clean animation of Niko from OneShot!",
+      "description": "Clean animation of Niko from OneShot!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/niko.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/niko.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/niko.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-7004208",
+      "kind": "wallpaper",
+      "name": "Night City",
+      "author": "@squair.dev",
+      "version": "1.0.0",
+      "summary": "The City of Legends!",
+      "description": "The City of Legends!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Night_City.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Night_City.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Night_City.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    }
+  ]
+}
