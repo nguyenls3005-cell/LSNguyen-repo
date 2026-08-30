@@ -1,3 +1,4 @@
+@@ -0,0 +1,227 @@
 {
   "schemaVersion": 1,
   "identifier": "com.yangjiii.LSNguyen",
@@ -200,49 +201,6 @@
       "sha256": "a192b2470cf3766d407a8c9957ec1f92e121ee112bbb983d9b60b21b6387b9ea",
       "size": 1082,
       "password": "wmcry",
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "featured": false,
-      "isPrivate": false
-    },
-    {
-      "identifier": "theme-amongus",
-      "kind": "Dialer Patch",
-      "name": "AmongUs Theme",
-      "author": "Gasetinb",
-      "version": "1.0.0",
-      "summary": "thay đổi giao diện bàn phím quay số của điện thoại!",
-      "description": "nhân vật AmongUs ngay trên bàn phím quay số mà không cần jailbreak!",
-      "category": "Dialer Patch",
-      "tags": [
-        "Dialer Patch"
-      ],
-      "icon": "assets/IMG_0393.png",
-      "screenshots": [
-        "assets/IMG_0393.png",
-        "assets/IMG_0394.png"
-      ],
-      "download": "packages/AmongUs.3105",
-      "sha256": "3e302b4508d2f50e18c9e50436c4be473245a037974cd96fabefdf6e051c4579",
-      "size": 420374,
       "supportedOS": [
         {
           "minimum": "17.0",
