@@ -100,9 +100,9 @@
       "version": "1.0.0",
       "summary": "Nâng Capcut lên Pro miễn phí, vĩnh viễn",
       "description": "Sau Khi nâng không được login tài khoản",
-      "category": "Patches&Dialers",
+      "category": "Patches & Dialers",
       "tags": [
-        "Patches&Dialers"
+        "Patches & Dialers"
       ],
       "icon": "assets/IMG_0384.png",
       "screenshots": [
@@ -143,9 +143,9 @@
       "version": "1.0.0",
       "summary": "Nâng Dazz Cam lên Pro miễn phí, vĩnh viễn",
       "description": "phù hợp cho những người đam mê chụp ảnh",
-      "category": "Patches&Dialers",
+      "category": "Patches & Dialers",
       "tags": [
-        "Patches&Dialers"
+        "Patches & Dialers"
       ],
       "icon": "assets/IMG_0387.png",
       "screenshots": [
@@ -660,13 +660,13 @@
       "identifier": "Hachiware-dial-3105",
       "kind": "patch",
       "name": "Hachiware Dialer",
-      "author": "Xuan Dan",
+      "author": "Xuan Dan & Gasetinh",
       "version": "1.0.0",
       "summary": "Hachiware xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Hachiware cho anh em không cần jailbreak",
-      "category": "Patches&Dialers",
+      "category": "Patches & Dialers",
       "tags": [
-        "Patches&Dialers"
+        "Patches & Dialers"
       ],
       "icon": "assets/IMG_0467.png",
       "screenshots": [
@@ -707,9 +707,9 @@
       "version": "1.0.0",
       "summary": "Maker xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Cute Cat cho anh em không cần jailbreak",
-      "category": "Patches&Dialers",
+      "category": "Patches & Dialers",
       "tags": [
-        "Patches&Dialers"
+        "Patches & Dialers"
       ],
       "icon": "assets/IMG_0470.png",
       "screenshots": [
@@ -750,9 +750,9 @@
       "version": "1.0.0",
       "summary": "Maker xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Maker cho anh em không cần jailbreak",
-      "category": "Patches&Dialers",
+      "category": "Patches & Dialers",
       "tags": [
-        "Patches&Dialers"
+        "Patches & Dialers"
       ],
       "icon": "assets/IMG_0478.png",
       "screenshots": [
@@ -793,9 +793,9 @@
       "version": "1.0.0",
       "summary": "Shin xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Shin cho anh em không cần jailbreak",
-      "category": "Patches&Dialers",
+      "category": "Patches & Dialers",
       "tags": [
-        "Patches&Dialers"
+        "Patches & Dialers"
       ],
       "icon": "assets/IMG_0476.png",
       "screenshots": [
@@ -836,9 +836,9 @@
       "version": "1.0.0",
       "summary": "AmongUs xuất hiện ngay trên bàn phím quay số!",
       "description": "theme AmongUs cho anh em không cần jailbreak",
-      "category": "Patches&Dialers",
+      "category": "Patches & Dialers",
       "tags": [
-        "Patches&Dialers"
+        "Patches & Dialers"
       ],
       "icon": "assets/IMG_0481.png",
       "screenshots": [
@@ -879,9 +879,9 @@
       "version": "1.0.0",
       "summary": "Pixel xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Pixel cho anh em không cần jailbreak",
-      "category": "Patches&Dialers",
+      "category": "Patches & Dialers",
       "tags": [
-        "Patches&Dialers"
+        "Patches & Dialers"
       ],
       "icon": "assets/IMG_0484.png",
       "screenshots": [
@@ -922,9 +922,9 @@
       "version": "1.0.0",
       "summary": "Lovely xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Lovely cho anh em không cần jailbreak",
-      "category": "Patches&Dialers",
+      "category": "Patches & Dialers",
       "tags": [
-        "Patches&Dialers"
+        "Patches & Dialers"
       ],
       "icon": "assets/IMG_0482.png",
       "screenshots": [
@@ -934,6 +934,49 @@
       "download": "packages/Lovely.3105",
       "sha256": "bb61ef119e7aadd3fbbe88f95b81d1f85a3d0107733aad0e9c9cc51a373f99dc",
       "size": 70423,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Onepiece-dialer",
+      "kind": "patch",
+      "name": "OnePiece Dialer",
+      "author": "XuanDan & Gasetinh",
+      "version": "1.0.0",
+      "summary": "OnePiece xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme OnePiece cho anh em không cần jailbreak",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/IMG_0487.png",
+      "screenshots": [
+        "assets/IMG_0487.png",
+        "assets/IMG_0488.png"
+      ],
+      "download": "packages/Onepiece.3105",
+      "sha256": "bae7cfb32179107a86af4be80c122cce7a25600c580499b00f10f21a76331a44",
+      "size": 386627,
       "supportedOS": [
         {
           "minimum": "17.0",
