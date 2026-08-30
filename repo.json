@@ -94,50 +94,6 @@
       "isPrivate": false
     },
     {
-      "identifier": "AKANE-the-angel",
-      "kind": "wallpaper",
-      "name": "AKANE the angel",
-      "author": "fan DoraXXX",
-      "version": "1.0.0",
-      "summary": "hình nền công phu với một người con gái đang ngồi",
-      "description": "khi vuốt lên nhân vật sẽ bay lên theo ",
-      "category": "Wallpaper",
-      "tags": [
-        "Wallpaper",
-        "Custom"
-      ],
-      "icon": "assets/IMG_0377.png",
-      "screenshots": [
-        "assets/IMG_0377.png",
-        "assets/IMG_0378.png"
-      ],
-      "download": "packages/AKANE_the_Angle.tendies",
-      "sha256": "9eb5c2a00592f77df7adba93632ec991093422139862a57f730d6b7adb6b17e5",
-      "size": 21911764,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "featured": false,
-      "isPrivate": false
-    },
-    {
       "identifier": "Capcut-Pro",
       "kind": "patch",
       "name": "Capcut Pro",
@@ -200,6 +156,50 @@
       "sha256": "a192b2470cf3766d407a8c9957ec1f92e121ee112bbb983d9b60b21b6387b9ea",
       "size": 1082,
       "password": "wmcry",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Autumn-city",
+      "kind": "wallpaper",
+      "name": "Autumn-city",
+      "author": "Gdnnpc",
+      "version": "1.0.0",
+      "summary": "lá rơi xuống phố",
+      "description": "From:caplayground",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0402.png",
+      "screenshots": [
+        "assets/IMG_0402.png",
+        "assets/IMG_0403.png"
+      ],
+      "download": "packages/Autumn_City.tendies",
+      "sha256": "7eb285e89acd8f709a2e2ff5d02ed150e0c7028dc176ca92cb5e1c5795d28da3",
+      "size": 721338,
       "supportedOS": [
         {
           "minimum": "17.0",
