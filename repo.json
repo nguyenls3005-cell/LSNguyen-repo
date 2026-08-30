@@ -3,7 +3,7 @@
   "identifier": "com.yangjiii.LSNguyen",
   "name": "LSNguyen Repository",
   "description": "Mã Nguồn Repo Của LSNguyen",
-  "icon": "assets/IMG_0358.png",
+  "icon": "assets/IMG_0479.jpeg",
   "packages": [
     {
       "identifier": "Deafult-apple-wallpaper",
@@ -100,9 +100,9 @@
       "version": "1.0.0",
       "summary": "Nâng Capcut lên Pro miễn phí, vĩnh viễn",
       "description": "Sau Khi nâng không được login tài khoản",
-      "category": "Patch",
+      "category": "Patches&Dialers",
       "tags": [
-        "Patch"
+        "Patches&Dialers"
       ],
       "icon": "assets/IMG_0384.png",
       "screenshots": [
@@ -143,9 +143,9 @@
       "version": "1.0.0",
       "summary": "Nâng Dazz Cam lên Pro miễn phí, vĩnh viễn",
       "description": "phù hợp cho những người đam mê chụp ảnh",
-      "category": "Patch",
+      "category": "Patches&Dialers",
       "tags": [
-        "Patch"
+        "Patches&Dialers"
       ],
       "icon": "assets/IMG_0387.png",
       "screenshots": [
@@ -657,16 +657,16 @@
       "isPrivate": false
     },
     {
-      "identifier": "Hachiware-dial",
+      "identifier": "Hachiware-dial-3105",
       "kind": "patch",
       "name": "Hachiware Dialer",
       "author": "Xuan Dan",
       "version": "1.0.0",
       "summary": "Hachiware xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Hachiware cho anh em không cần jailbreak",
-      "category": "Patch",
+      "category": "Patches&Dialers",
       "tags": [
-        "Patch"
+        "Patches&Dialers"
       ],
       "icon": "assets/IMG_0467.png",
       "screenshots": [
@@ -700,16 +700,16 @@
       "isPrivate": false
     },
     {
-      "identifier": "cute-cat",
+      "identifier": "cute-cat-3105",
       "kind": "patch",
-      "name": "Cute Cat",
+      "name": "Cute Cat Dialer",
       "author": "Gasetinh",
       "version": "1.0.0",
-      "summary": "a cute cat",
-      "description": "theme cat này thay đổi dial bàn phím quay số mà không cần jailbreak",
-      "category": "Patch",
+      "summary": "Maker xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Cute Cat cho anh em không cần jailbreak",
+      "category": "Patches&Dialers",
       "tags": [
-        "Patch"
+        "Patches&Dialers"
       ],
       "icon": "assets/IMG_0470.png",
       "screenshots": [
@@ -719,6 +719,221 @@
       "download": "packages/Cutecat.3105",
       "sha256": "8aa93792a87c8bb2924a44cdbbe462627e95fd4e1e6cf7107d1d2a672de9c085",
       "size": 371968,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Maker-3105",
+      "kind": "patch",
+      "name": "Maker Dialer",
+      "author": "Gasetinb",
+      "version": "1.0.0",
+      "summary": "Maker xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Maker cho anh em không cần jailbreak",
+      "category": "Patches&Dialers",
+      "tags": [
+        "Patches&Dialers"
+      ],
+      "icon": "assets/IMG_0478.png",
+      "screenshots": [
+        "assets/IMG_0478.png",
+        "assets/IMG_0477.png"
+      ],
+      "download": "packages/Maker.3105",
+      "sha256": "9788ed290155ab46452ec3120961af84caad661b2c4f76120bb647f911b30245",
+      "size": 81492,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Shin-3105",
+      "kind": "patch",
+      "name": "Shin Dialer",
+      "author": "Gasetinb",
+      "version": "1.0.0",
+      "summary": "Shin xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Shin cho anh em không cần jailbreak",
+      "category": "Patches&Dialers",
+      "tags": [
+        "Patches&Dialers"
+      ],
+      "icon": "assets/IMG_0476.png",
+      "screenshots": [
+        "assets/IMG_0476.png",
+        "assets/IMG_0475.png"
+      ],
+      "download": "packages/Shin.3105",
+      "sha256": "8bae5e04cfd8fe38f6b6b58f713b24e0e1f9de143013a013030fad12c140339e",
+      "size": 775687,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "AmongUs-dialer",
+      "kind": "patch",
+      "name": "AmongUs Dialer",
+      "author": "Gasetinh",
+      "version": "1.0.0",
+      "summary": "AmongUs xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme AmongUs cho anh em không cần jailbreak",
+      "category": "Patches&Dialers",
+      "tags": [
+        "Patches&Dialers"
+      ],
+      "icon": "assets/IMG_0481.png",
+      "screenshots": [
+        "assets/IMG_0481.png",
+        "assets/IMG_0480.png"
+      ],
+      "download": "packages/AmongUs.3105",
+      "sha256": "3e302b4508d2f50e18c9e50436c4be473245a037974cd96fabefdf6e051c4579",
+      "size": 420374,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Pixel-dialer",
+      "kind": "patch",
+      "name": "Pixel Dialer",
+      "author": "Gasetinh",
+      "version": "1.0.0",
+      "summary": "Pixel xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Pixel cho anh em không cần jailbreak",
+      "category": "Patches&Dialers",
+      "tags": [
+        "Patches&Dialers"
+      ],
+      "icon": "assets/IMG_0484.png",
+      "screenshots": [
+        "assets/IMG_0484.png",
+        "assets/IMG_0485.png"
+      ],
+      "download": "packages/Pixel.3105",
+      "sha256": "0e6367666375c5fc3877cbcafd57d5da3584ecabde1843812fcaefdc28da2ea9",
+      "size": 45103,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Lovely-dialer",
+      "kind": "patch",
+      "name": "Lovely Dialer",
+      "author": "Gaáetinh",
+      "version": "1.0.0",
+      "summary": "Lovely xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Lovely cho anh em không cần jailbreak",
+      "category": "Patches&Dialers",
+      "tags": [
+        "Patches&Dialers"
+      ],
+      "icon": "assets/IMG_0482.png",
+      "screenshots": [
+        "assets/IMG_0482.png",
+        "assets/IMG_0483.png"
+      ],
+      "download": "packages/Lovely.3105",
+      "sha256": "bb61ef119e7aadd3fbbe88f95b81d1f85a3d0107733aad0e9c9cc51a373f99dc",
+      "size": 70423,
       "supportedOS": [
         {
           "minimum": "17.0",
