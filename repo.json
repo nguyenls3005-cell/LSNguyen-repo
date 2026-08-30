@@ -265,6 +265,396 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "iPhone17Pro",
+      "kind": "wallpaper",
+      "name": "iPhone17Pro&ProMax",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "iPhone 17 Pro, Pro Max",
+      "description": "from:cowabunga",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0424.jpeg",
+      "screenshots": [
+        "assets/IMG_0424.jpeg",
+      ],
+      "download": "packages/iPhone 17 Pro.tendies",
+      "sha256": "f6caadf93d7bba10ace6ae0f6c147af28ab636163ee4461b1a82731051971626",
+      "size": 111695,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iPhone-Air",
+      "kind": "wallpaper",
+      "name": "iPhone Air",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "iPhone Air",
+      "description": "from:cowabunga",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0425.jpeg",
+      "screenshots": [
+        "assets/IMG_0425.jpeg"
+      ],
+      "download": "packages/iPhone Air.tendies",
+      "sha256": "7f426c9cd84054606be41cd8c77020225c2df04065c7ab6aa55ba4935bb8f02c",
+      "size": 114779,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iPhone-17",
+      "kind": "wallpaper",
+      "name": "iPhone 17",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "iPhone 17 ",
+      "description": "from:cowabunga",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0430.jpeg",
+      "screenshots": [
+        "assets/IMG_0430.jpeg"
+      ],
+      "download": "packages/iPhone 17.tendies",
+      "sha256": "b98d543795dd1154900aac0520bf4a412bbb269196c2fe3a8a114c0d919e2b8c",
+      "size": 10284660,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iPhone-17e",
+      "kind": "wallpaper",
+      "name": "iPhone 17e",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "iPhone 17e",
+      "description": "from:cowabunga",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0426.jpeg",
+      "screenshots": [
+        "assets/IMG_0426.jpeg"
+      ],
+      "download": "packages/iPhone17e.tendies",
+      "sha256": "15db3ff4592bb3dfd792a63587b577aec0c8f45196c508dc188178e4c43b4fe5",
+      "size": 27398,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iPhone-16-pro",
+      "kind": "wallpaper",
+      "name": "iPhone 16 Pro&Pro Max",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "iPhone 16 Pro&Pro Max",
+      "description": "from:cowabunga",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0427.jpeg",
+      "screenshots": [
+        "assets/IMG_0427.jpeg"
+      ],
+      "download": "packages/iPhone 16 Pro.tendies",
+      "sha256": "15db3ff4592bb3dfd792a63587b577aec0c8f45196c508dc188178e4c43b4fe5",
+      "size": 27398,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iPhone-16",
+      "kind": "wallpaper",
+      "name": "iPhone 16",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "iPhone 16",
+      "description": "from:cowabunga",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0428.jpeg",
+      "screenshots": [
+        "assets/IMG_0428.jpeg"
+      ],
+      "download": "packages/iPhone 16.tendies",
+      "sha256": "f4acbf67ca1d7e4dfd4583aae0383efe0c4a25d69f2fc330996333dd5002708c",
+      "size": 103976,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Girl-gyro",
+      "kind": "wallpaper",
+      "name": "Girl Gyro",
+      "author": "Sage",
+      "version": "1.0.0",
+      "summary": "Girl Gyro and some beautiful animation",
+      "description": "from:linkbio Sage Reborn",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0435.png",
+      "screenshots": [
+        "assets/IMG_0435.png",
+        "assets/IMG_0436.png"
+      ],
+      "download": "packages/Girlgyro.tendies",
+      "sha256": "9475069afebb7a5a56e4dbe61f8b57bf19bf2c3edd464a0e5e2b5bc6f90f6728",
+      "size": 6785409,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "catvolleybal-lite",
+      "kind": "wallpaper",
+      "name": "Catvolleyball",
+      "author": "C4ndyf1sh",
+      "version": "1.0.0",
+      "summary": "cat play volleyball ",
+      "description": "from:cowabunga",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0448.png",
+      "screenshots": [
+        "assets/IMG_0448.png",
+        "assets/IMG_0449.png"
+      ],
+      "download": "packages/catvolleyball-lite.tendies",
+      "sha256": "2c314fc2822a4d8be3b92f4d2bf99578f03f2d214a5931e4764bd9b7cc27d79e",
+      "size": 7430598,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "hamster-play-football",
+      "kind": "wallpaper",
+      "name": "Cat Play Football",
+      "author": "YangJiii",
+      "version": "1.0.0",
+      "summary": "hamster play football",
+      "description": "from:caplayground",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0450.png",
+      "screenshots": [
+        "assets/IMG_0450.png",
+        "assets/IMG_0451.png"
+      ],
+      "download": "packages/Hamster_Playing_Football.tendies",
+      "sha256": "8fbff0d4aea68ed52007f8c0c2ed0dc124026bdf4e892767046ff0c3ebe83915",
+      "size": 1576708,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
