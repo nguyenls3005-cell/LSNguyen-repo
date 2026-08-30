@@ -655,49 +655,6 @@
       ],
       "featured": false,
       "isPrivate": false
-    },
-    {
-      "identifier": "cutecat",
-      "kind": "Dialers",
-      "name": "Cute Cat Dialer",
-      "author": "Gasetinh",
-      "version": "1.0.0",
-      "summary": "theme Dial Cute Cat",
-      "description": "using patch 3105 ",
-      "category": "Dialers",
-      "tags": [
-        "Dialers"
-      ],
-      "icon": "assets/IMG_0455.png",
-      "screenshots": [
-        "assets/IMG_0455.png",
-        "assets/IMG_0456.png"
-      ],
-      "download": "packages/Cutecat.3105",
-      "sha256": "8aa93792a87c8bb2924a44cdbbe462627e95fd4e1e6cf7107d1d2a672de9c085",
-      "size": 371968,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "featured": false,
-      "isPrivate": false
     }
   ]
 }
