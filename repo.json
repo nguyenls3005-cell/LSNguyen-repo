@@ -660,7 +660,7 @@
       "identifier": "Hachiware-dial-3105",
       "kind": "patch",
       "name": "Hachiware Dialer",
-      "author": "Xuan Dan & Gasetinh",
+      "author": "Xuan Dan",
       "version": "1.0.0",
       "summary": "Hachiware xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Hachiware cho anh em không cần jailbreak",
@@ -705,7 +705,7 @@
       "name": "Cute Cat Dialer",
       "author": "Gasetinh",
       "version": "1.0.0",
-      "summary": "Maker xuất hiện ngay trên bàn phím quay số!",
+      "summary": "Cute Cat xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Cute Cat cho anh em không cần jailbreak",
       "category": "Patches & Dialers",
       "tags": [
@@ -1013,9 +1013,9 @@
         "Wallpaper",
         "Custom"
       ],
-      "icon": "assets/IMG_0510.jpeg",
+      "icon": "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0510.jpeg",
       "screenshots": [
-        "assets/IMG_0510.jpeg",
+        "https://raw.githubusercontent.com/nguyenls3005-cell/LSNguyen-repo/refs/heads/main/assets/IMG_0510.jpeg",
         "assets/IMG_0511.png",
         "assets/IMG_0512.png"
       ],
