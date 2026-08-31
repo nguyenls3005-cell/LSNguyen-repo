@@ -999,6 +999,51 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "waguri-kaoruko",
+      "kind": "wallpaper",
+      "name": "Waguri Kaoruko Meitu",
+      "author": "Aya Dev",
+      "version": "1.0.0",
+      "summary": "Meitu wallpaper with Waguri Kaoruko",
+      "description": "A beautiful meitu wallpaper!",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0510.jpeg",
+      "screenshots": [
+        "assets/IMG_0510.jpeg",
+        "assets/IMG_0511.png",
+        "assets/IMG_0512.png"
+      ],
+      "download": "packages/Gaytaixuong.tendies",
+      "sha256": "1215f15a1aca541c37f9d91430815794e3ef3757e72c4217dc86e13e18bd0869",
+      "size": 5224678,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
