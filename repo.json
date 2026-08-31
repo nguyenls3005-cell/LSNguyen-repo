@@ -673,9 +673,9 @@
         "assets/IMG_0467.png",
         "assets/IMG_0466.png"
       ],
-      "download": "packages/Chikawa.3105",
-      "sha256": "310d427ebb4faa411c97e649490e46fb3f1ddd8a0610d7083442b3b790d51526",
-      "size": 380975,
+      "download": "packages/hachiware2.3105pass",
+      "sha256": "ce3cb58493be8ebaa7d9d1a85a6ec1f162b2da57e8aea083eafd8f20d1286fe0",
+      "size": 1340430,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -716,9 +716,9 @@
         "assets/IMG_0470.png",
         "assets/IMG_0469.png"
       ],
-      "download": "packages/Cutecat.3105",
-      "sha256": "8aa93792a87c8bb2924a44cdbbe462627e95fd4e1e6cf7107d1d2a672de9c085",
-      "size": 371968,
+      "download": "packages/TelephonyUI-10-cute-cat 2.3105pass",
+      "sha256": "3a5193cd8fcf9794854235c43e386bc6dff059d9daed0398216fb94451841eb8",
+      "size": 726028,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -759,9 +759,9 @@
         "assets/IMG_0478.png",
         "assets/IMG_0477.png"
       ],
-      "download": "packages/Maker.3105",
-      "sha256": "9788ed290155ab46452ec3120961af84caad661b2c4f76120bb647f911b30245",
-      "size": 81492,
+      "download": "packages/TelephonyUI-permanent-marker-pen.3105pass",
+      "sha256": "360420fe3a0f29608e4243d17c5dd82bf0e5abfff4b26c409e76171f25be07a5",
+      "size": 64952,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -789,7 +789,7 @@
       "identifier": "Shin-3105",
       "kind": "patch",
       "name": "Shin Dialer",
-      "author": "Gasetinb",
+      "author": "Gasetinh",
       "version": "1.0.0",
       "summary": "Shin xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Shin cho anh em không cần jailbreak",
@@ -802,9 +802,9 @@
         "assets/IMG_0476.png",
         "assets/IMG_0475.png"
       ],
-      "download": "packages/Shin.3105",
-      "sha256": "8bae5e04cfd8fe38f6b6b58f713b24e0e1f9de143013a013030fad12c140339e",
-      "size": 775687,
+      "download": "packages/TelephonyUI-shin.3105pass",
+      "sha256": "0250d985aa0afe3254a828d0a5cff73d7c74afec51ae3c9b0309245d53192cc9",
+      "size": 763902,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -845,9 +845,9 @@
         "assets/IMG_0481.png",
         "assets/IMG_0480.png"
       ],
-      "download": "packages/AmongUs.3105",
-      "sha256": "3e302b4508d2f50e18c9e50436c4be473245a037974cd96fabefdf6e051c4579",
-      "size": 420374,
+      "download": "packages/TelephonyUI-amongus.3105pass",
+      "sha256": "2c9d81aa5e1fc6fcd4dda955504d042f126599871b5632a98889b893af274193",
+      "size": 768621,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -888,9 +888,9 @@
         "assets/IMG_0484.png",
         "assets/IMG_0485.png"
       ],
-      "download": "packages/Pixel.3105",
-      "sha256": "0e6367666375c5fc3877cbcafd57d5da3584ecabde1843812fcaefdc28da2ea9",
-      "size": 45103,
+      "download": "packages/TelephonyUI-pixel.3105pass",
+      "sha256": "4ce1182a5b8ebf43e948528931d39212f8da915279d2fd45751dd1bd1c569ab5",
+      "size": 48997,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -918,7 +918,7 @@
       "identifier": "Lovely-dialer",
       "kind": "patch",
       "name": "Lovely Dialer",
-      "author": "Gaáetinh",
+      "author": "Gasetinh",
       "version": "1.0.0",
       "summary": "Lovely xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Lovely cho anh em không cần jailbreak",
@@ -931,9 +931,9 @@
         "assets/IMG_0482.png",
         "assets/IMG_0483.png"
       ],
-      "download": "packages/Lovely.3105",
-      "sha256": "bb61ef119e7aadd3fbbe88f95b81d1f85a3d0107733aad0e9c9cc51a373f99dc",
-      "size": 70423,
+      "download": "packages/TelephonyUI-Lovely.3105pass",
+      "sha256": "cd5a288c0358a6b2e4c99592c8c0139473da7db122bf50dc89931f0711569301",
+      "size": 121814,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -961,7 +961,7 @@
       "identifier": "Onepiece-dialer",
       "kind": "patch",
       "name": "OnePiece Dialer",
-      "author": "XuanDan & Gasetinh",
+      "author": "Xuan Dan & Gasetinh",
       "version": "1.0.0",
       "summary": "OnePiece xuất hiện ngay trên bàn phím quay số!",
       "description": "theme OnePiece cho anh em không cần jailbreak",
@@ -974,9 +974,9 @@
         "assets/IMG_0487.png",
         "assets/IMG_0488.png"
       ],
-      "download": "packages/Onepiece.3105",
-      "sha256": "bae7cfb32179107a86af4be80c122cce7a25600c580499b00f10f21a76331a44",
-      "size": 386627,
+      "download": "packages/onepiecefix.3105pass",
+      "sha256": "f7afba892113793910296b6a688c0a91bedf62a5d3238c415e8784794b23bfe3",
+      "size": 753966,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -1022,6 +1022,49 @@
       "download": "packages/Gaytaixuong.tendies",
       "sha256": "1215f15a1aca541c37f9d91430815794e3ef3757e72c4217dc86e13e18bd0869",
       "size": 5224678,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Doraemon-dialer",
+      "kind": "patch",
+      "name": "Doraemon Dialer",
+      "author": "Xuan Dan & Gasetinh",
+      "version": "1.0.0",
+      "summary": "Doraemon xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Doraemon cho anh em không cần jailbreak",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/IMG_0524.png",
+      "screenshots": [
+        "assets/IMG_0524.png",
+        "assets/IMG_0526.png"
+      ],
+      "download": "packages/Doraemon.3105pass",
+      "sha256": "3874e4da4f741ff31528076bede581507cc872e27942087d978afdee1bb3e9e5",
+      "size": 1082104,
       "supportedOS": [
         {
           "minimum": "17.0",
