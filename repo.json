@@ -142,7 +142,21 @@
       "author": "W/m Cryy",
       "version": "1.0.0",
       "summary": "Nâng Dazz Cam lên Pro miễn phí, vĩnh viễn",
-      "description": "phù hợp cho những người đam mê chụp ảnh",
+      "description": "
+
+
+✨ *TÍNH NĂNG NỔI BẬT*
+✅ ĐÃ MỞ KHÓA FULL PRO
+Bộ lọc film cổ điển
+Hiệu ứng rò sáng ánh sáng
+Phơi sáng kép (Double Exposure)
+Hẹn giờ chụp
+Đèn flash film
+Ống kính mắt cá (Fisheye)
+Điều chỉnh độ phơi sáng
+Khung ảnh vuông đăng Instagram
+Nhiều màu đèn flash
+",
       "category": "Patches & Dialers",
       "tags": [
         "Patches & Dialers"
@@ -184,8 +198,8 @@
       "name": "Autumn-city",
       "author": "Gdnnpc",
       "version": "1.0.0",
-      "summary": "lá rơi xuống phố",
-      "description": "From:caplayground",
+      "summary": "Autumn themed wallpaper with falling leaves",
+      "description": "Autumn themed wallpaper with falling leaves",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
@@ -269,11 +283,13 @@
     {
       "identifier": "iPhone17Pro",
       "kind": "wallpaper",
-      "name": "iPhone17Pro&ProMax",
+      "name": "iPhone17Pro & ProMax",
       "author": "Apple",
       "version": "1.0.0",
-      "summary": "iPhone 17 Pro, Pro Max",
-      "description": "from:cowabunga",
+      "summary": "*iOS 26+",
+      "description": "*iOS 18+
+
+Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
       "category": "Apple",
       "tags": [
         "Apple",
@@ -315,8 +331,10 @@
       "name": "iPhone Air",
       "author": "Apple",
       "version": "1.0.0",
-      "summary": "iPhone Air",
-      "description": "from:cowabunga",
+      "summary": "*15 Pro or newer, iOS 26+",
+      "description": "*iOS 18+
+
+Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
       "category": "Apple",
       "tags": [
         "Apple",
@@ -358,8 +376,10 @@
       "name": "iPhone 17",
       "author": "Apple",
       "version": "1.0.0",
-      "summary": "iPhone 17 ",
-      "description": "from:cowabunga",
+      "summary": "*iOS 26+ ",
+      "description": "*iOS 18+
+
+Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
       "category": "Apple",
       "tags": [
         "Apple",
@@ -401,8 +421,10 @@
       "name": "iPhone 17e",
       "author": "Apple",
       "version": "1.0.0",
-      "summary": "iPhone 17e",
-      "description": "from:cowabunga",
+      "summary": "*iOS 26.3.1+",
+      "description": "*iOS 18+
+
+Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
       "category": "Apple",
       "tags": [
         "Apple",
@@ -441,11 +463,13 @@
     {
       "identifier": "iPhone-16-pro",
       "kind": "wallpaper",
-      "name": "iPhone 16 Pro&Pro Max",
+      "name": "iPhone 16 Pro & Pro Max",
       "author": "Apple",
       "version": "1.0.0",
-      "summary": "iPhone 16 Pro&Pro Max",
-      "description": "from:cowabunga",
+      "summary": "*15 Pro or newer, iOS 18+",
+      "description": "*iOS 18+
+
+Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
       "category": "Apple",
       "tags": [
         "Apple",
@@ -487,8 +511,10 @@
       "name": "iPhone 16",
       "author": "Apple",
       "version": "1.0.0",
-      "summary": "iPhone 16",
-      "description": "from:cowabunga",
+      "summary": "*iOS 18+",
+      "description": "*iOS 18+
+
+Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
       "category": "Apple",
       "tags": [
         "Apple",
@@ -571,11 +597,11 @@
     {
       "identifier": "catvolleybal-lite",
       "kind": "wallpaper",
-      "name": "Catvolleyball",
+      "name": "Cat Volleyball Lite",
       "author": "C4ndyf1sh",
       "version": "1.0.0",
-      "summary": "cat play volleyball ",
-      "description": "from:cowabunga",
+      "summary": "Hapi Hapi Hapi ",
+      "description": "Hapi Hapi Hapi",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
@@ -615,11 +641,11 @@
     {
       "identifier": "hamster-play-football",
       "kind": "wallpaper",
-      "name": "Cat Play Football",
+      "name": "Hamster Play Football",
       "author": "YangJiii",
       "version": "1.0.0",
-      "summary": "hamster play football",
-      "description": "from:caplayground",
+      "summary": "Make By YangJiii Original By Onerock",
+      "description": "Make By YangJiii Original By Onerock",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
