@@ -1087,6 +1087,265 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "iPhone-14-pro",
+      "kind": "wallpaper",
+      "name": "iPhone 14 Pro & Pro Max",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers , Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0)",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0572.jpeg",
+      "screenshots": [
+        "assets/IMG_0572.jpeg"
+      ],
+      "download": "packages/iPhone14Pro.tendies 2",
+      "sha256": "3a8760f3f2d44443bc20c0931e40b6b0503c68bd012125dd9ce0685aa0813ca7",
+      "size": 4633847,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iPhone-14",
+      "kind": "wallpaper",
+      "name": "iPhone 14 ",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers , Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0)",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0573.jpeg",
+      "screenshots": [
+        "assets/IMG_0573.jpeg"
+      ],
+      "download": "packages/iPhone14.tendies",
+      "sha256": "3460994d88932b7ca8d7aac57fcad9213f6d37027e3d2d56a79ed812dbd0172b",
+      "size": 15367663,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iPhone-se3",
+      "kind": "wallpaper",
+      "name": "iPhone SE 3rd Gen",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers , Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0)",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0574.jpeg",
+      "screenshots": [
+        "assets/IMG_0574.jpeg"
+      ],
+      "download": "packages/iPhoneSEGen3.tendies",
+      "sha256": "bec6bb4bcb751162b2356b3b2280b81312a4f6795da57b2a0518c8157407b793",
+      "size": 11507697,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iOS-26",
+      "kind": "wallpaper",
+      "name": "iOS 26",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "iOS 26 Wallpaper from Third-Party",
+      "description": "iOS 26 Wallpaper from Third-Party",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0542.png",
+      "screenshots": [
+        "assets/IMG_0542.png",
+        "assets/IMG_0543.png"
+      ],
+      "download": "packages/_OS_26_light_ring_wallpaper.tendies",
+      "sha256": "3c106dabda388bb9399afc92320d704eb61ce09758d336da3a5562949918b227",
+      "size": 12490524,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iOS-16",
+      "kind": "wallpaper",
+      "name": "iOS 16",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers , Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0)",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0576.jpeg",
+      "screenshots": [
+        "assets/IMG_0576.jpeg"
+      ],
+      "download": "packages/iOS16.tendies",
+      "sha256": "b5636fb1f03d0f1ecfed162ab759c6e317beedc0077c6b8de151fe77e58a6211",
+      "size": 12042929,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iOS-15",
+      "kind": "wallpaper",
+      "name": "iOS 15",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers , Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0)",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0577.jpeg",
+      "screenshots": [
+        "assets/IMG_0577.jpeg"
+      ],
+      "download": "packages/iOS15.tendies",
+      "sha256": "b5636fb1f03d0f1ecfed162ab759c6e317beedc0077c6b8de151fe77e58a6211",
+      "size": 12042929,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
