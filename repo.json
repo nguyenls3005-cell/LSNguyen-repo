@@ -225,10 +225,10 @@
     {
       "identifier": "Chika-Wallpaper",
       "kind": "wallpaper",
-      "name": "Chika Wallpaper",
+      "name": "Hachiware Wallpaper",
       "author": "Chinese",
       "version": "1.0.0",
-      "summary": "Hình nền Chikawa siêu cute✨ ",
+      "summary": "Hình nền Hachiware siêu cute✨ ",
       "description": "Phù hợp với các chị em",
       "category": "Wallpaper",
       "tags": [
@@ -1330,6 +1330,226 @@
       "download": "packages/nugget_wallpaper_a_cat_and_a_dog_wearing_headphones.tendies",
       "sha256": "29d9f91013e631e2e2f55acd37cc14c2b581d9cbf1d37715cff04a634310b92c",
       "size": 6193610,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "usagi-wall",
+      "kind": "wallpaper",
+      "name": "Usagi Wallpaper",
+      "author": "Nhat Tien (repo  Denrindz)",
+      "version": "1.0.0",
+      "summary": "hình nền Usagi siêu cute✨",
+      "description": "Phù hợp với các chị em",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0595.png",
+      "screenshots": [
+        "assets/IMG_0595.png",
+        "assets/IMG_0596.png"
+      ],
+      "download": "packages/Usagi.tendies",
+      "sha256": "6732bc46661f629a81ceaf2bf4a54ee46105d1268a8681f834eb81b705b40465",
+      "size": 12991848,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Broken-screen",
+      "kind": "wallpaper",
+      "name": "Broken Screen",
+      "author": "Jam_minty",
+      "version": "1.0.0",
+      "summary": "YOU BROKE MY SCREEN!",
+      "description": "YOU BROKE MY SCREEN , ",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0598.png",
+      "screenshots": [
+        "assets/IMG_0598.png",
+        "assets/IMG_0599.png"
+      ],
+      "download": "packages/BrokenScreen.tendies",
+      "sha256": "2fbc73afa44c0ed396060f46d61e20698a972deea734d4adca628f9b5d07a032",
+      "size": 20108425,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Night-city",
+      "kind": "wallpaper",
+      "name": "Night City",
+      "author": "Squair.dev",
+      "version": "1.0.0",
+      "summary": "The City of Legends!",
+      "description": "The City of Legends , Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0)",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0600.png",
+      "screenshots": [
+        "assets/IMG_0600.png",
+        "assets/IMG_0601.png"
+      ],
+      "download": "packages/Night_City.tendies",
+      "sha256": "8cbdd90de6cc3960d891b357fe9d252819ffaca11ab6df8e010dd1ed6c2ab5eb",
+      "size": 37861,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Alya-wwallpaper",
+      "kind": "wallpaper",
+      "name": "Alya",
+      "author": "Little 34306",
+      "version": "1.0.0",
+      "summary": "Alya Wallpaper By Huy Nguyen",
+      "description": "Alya Wallpaper By Huy Nguyen",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0604.png",
+      "screenshots": [
+        "assets/IMG_0604.png",
+        "assets/IMG_0605.png"
+      ],
+      "download": "packages/alya_1-0.tendies",
+      "sha256": "1fd49136524a01994b065f6ab60b297de783b5dfca791062c28d22050eb87ab6",
+      "size": 6384127,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "koisuru-wall",
+      "kind": "wallpaper",
+      "name": "Koisuru",
+      "author": "Little 34306",
+      "version": "1.0.0",
+      "summary": "Koisuru Wallpaper By Huy Nguyen",
+      "description": "Koisuru Wallpaper By Huy Nguyen",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0558.png",
+      "screenshots": [
+        "assets/IMG_0558.png",
+        "assets/IMG_0559.png"
+      ],
+      "download": "packages/koisuru_1-0.tendies",
+      "sha256": "44ba75dcd4b91db9aed1e38c2e98b41108709c3ede5bf62cb1065019e9a7f7db",
+      "size": 7868803,
       "supportedOS": [
         {
           "minimum": "17.0",
