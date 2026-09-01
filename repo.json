@@ -1572,6 +1572,49 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "iphone-14",
+      "kind": "wallpaper",
+      "name": "iPhone 14 Pro",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers , Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0)",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0572.jpeg",
+      "screenshots": [
+        "assets/IMG_0572.jpeg"
+      ],
+      "download": "packages/iPhone14Pro.tendies 2",
+      "sha256": "3a8760f3f2d44443bc20c0931e40b6b0503c68bd012125dd9ce0685aa0813ca7",
+      "size": 4633847,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
