@@ -1176,6 +1176,182 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "bocchi-the-rock",
+      "kind": "wallpaper",
+      "name": "Bocchi The Rock Dark",
+      "author": "FIREXDF",
+      "version": "1.0.0",
+      "summary": "Tested on iPhone 15. Got AOD",
+      "description": "Tested on iPhone 15. Got AOD",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0550.png",
+      "screenshots": [
+        "assets/IMG_0550.png",
+        "assets/IMG_0551.png"
+      ],
+      "download": "packages/Bocchi_the_rock_Dark.tendies",
+      "sha256": "e605f1ee3ea1059799ddf56e342ea0c35088f0686572ab59e6b4c60159f57031",
+      "size": 582766,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Girl-rain",
+      "kind": "wallpaper",
+      "name": "Girl with Black Liquid Rain",
+      "author": "unknown",
+      "version": "1.0.0",
+      "summary": "Chill Wallpaper with Girl with Black Liquid Rain",
+      "description": "Chill Wallpaper with Girl with Black Liquid Rain",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0554.png",
+      "screenshots": [
+        "assets/IMG_0554.png",
+        "assets/IMG_0555.png"
+      ],
+      "download": "packages/thetorturedpoetsdepartment.tendies",
+      "sha256": "e605f1ee3ea1059799ddf56e342ea0c35088f0686572ab59e6b4c60159f57031",
+      "size": 582766,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "wang-lin",
+      "kind": "wallpaper",
+      "name": "Wanglin",
+      "author": "Plat iOS",
+      "version": "1.0.0",
+      "summary": "Character Wanglin",
+      "description": "Character Wanglin",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0556.png",
+      "screenshots": [
+        "assets/IMG_0556.png",
+        "assets/IMG_0557.png"
+      ],
+      "download": "packages/wanglin.tendies",
+      "sha256": "7d6bad0484f914fb6c9c7a929c39ce03d6ac57b242cbfa31c228c5021862c5d3",
+      "size": 17774688,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Cat-Dog",
+      "kind": "wallpaper",
+      "name": "A Dog and Two Cats Wearing Headphone",
+      "author": "Nhat Tien",
+      "version": "1.0.0",
+      "summary": "A Dog and Two Cats Wearing Headphone",
+      "description": "A Dog and Two Cats Wearing Headphone",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0544.png",
+      "screenshots": [
+        "assets/IMG_0544.png",
+        "assets/IMG_0545.png"
+      ],
+      "download": "packages/nugget_wallpaper_a_cat_and_a_dog_wearing_headphones.tendies",
+      "sha256": "29d9f91013e631e2e2f55acd37cc14c2b581d9cbf1d37715cff04a634310b92c",
+      "size": 6193610,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
