@@ -95,10 +95,10 @@
     {
       "identifier": "Capcut-Pro",
       "kind": "patch",
-      "name": "Capcut Pro",
+      "name": "Capcut",
       "author": "YangJiii",
       "version": "1.0.0",
-      "summary": "Nâng Capcut lên Pro miễn phí, vĩnh viễn",
+      "summary": "Nâng Capcut miễn phí, vĩnh viễn",
       "description": "Sau Khi nâng không được login tài khoản",
       "category": "Patches & Dialers",
       "tags": [
@@ -138,11 +138,11 @@
     {
       "identifier": "Dazz-Cam-Pro",
       "kind": "patch",
-      "name": "Dazz Cam Pro",
+      "name": "Dazz Cam ",
       "author": "W/m Cryy",
       "version": "1.0.0",
-      "summary": "Nâng Dazz Cam lên Pro miễn phí, vĩnh viễn",
-      "description": "✨ TÍNH NĂNG NỔI BẬT. ✅ ĐÃ MỞ KHÓA FULL PRO , Bộ lọc film cổ điển , Hiệu ứng rò sáng ánh sáng , Phơi sáng kép (Double Exposure) , Hẹn giờ chụp , Đèn flash film , Ống kính mắt cá (Fisheye) , Điều chỉnh độ phơi sáng , Khung ảnh vuông đăng Instagram , Nhiều màu đèn flash",
+      "summary": "Nâng Dazz Cam miễn phí, vĩnh viễn",
+      "description": "Dazz Cam miễn phí",
       "category": "Patches & Dialers",
       "tags": [
         "Patches & Dialers"
@@ -1003,11 +1003,11 @@
     {
       "identifier": "waguri-kaoruko",
       "kind": "wallpaper",
-      "name": "Waguri Kaoruko Meitu",
+      "name": "Waguri Kaoruko Meizu",
       "author": "Aya Dev",
       "version": "1.0.0",
-      "summary": "Meitu wallpaper with Waguri Kaoruko",
-      "description": "A beautiful meitu wallpaper!",
+      "summary": "Meizu wallpaper with Waguri Kaoruko",
+      "description": "A beautiful meizu wallpaper!",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
@@ -1022,6 +1022,94 @@
       "download": "packages/Gaytaixuong.tendies",
       "sha256": "1215f15a1aca541c37f9d91430815794e3ef3757e72c4217dc86e13e18bd0869",
       "size": 5224678,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "autumn-horizon",
+      "kind": "wallpaper",
+      "name": "Autumn Horizon",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "summary": "Autumn Horizon on Mountain",
+      "description": "Autumn Horizon on Mountain",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0546.png",
+      "screenshots": [
+        "assets/IMG_0546.png",
+        "assets/IMG_0547.png"
+      ],
+      "download": "packages/autumn_horizon.tendies",
+      "sha256": "e6d2ed776510c655c434375d77ad972625d68093857dfdec0fc9ac292d33f147",
+      "size": 1976071,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Cute-Cat",
+      "kind": "wallpaper",
+      "name": "Live Cute Cat Dancing ",
+      "author": "unknown",
+      "version": "1.0.0",
+      "summary": "Live Wallpaper Cute Cat Dancing",
+      "description": "Live Wallpaper Cute Cat Dancing",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0548.png",
+      "screenshots": [
+        "assets/IMG_0548.png",
+        "assets/IMG_0549.png"
+      ],
+      "download": "packages/live_wallpaper_cute_cats_dancing.tendies",
+      "sha256": "6199ac4484ef846d97daea93f326f287afecf31b09d7c32f43ef3b32119713f0",
+      "size": 1980415,
       "supportedOS": [
         {
           "minimum": "17.0",
