@@ -528,10 +528,10 @@
       "identifier": "Girl-gyro",
       "kind": "wallpaper",
       "name": "Girl Gyro",
-      "author": "Sage",
+      "author": "Van Nghia",
       "version": "1.0.0",
       "summary": "Girl Gyro and some beautiful animation",
-      "description": "from:linkbio Sage Reborn",
+      "description": "Girl Gyro and some beautiful animation",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
@@ -1110,6 +1110,50 @@
       "download": "packages/live_wallpaper_cute_cats_dancing.tendies",
       "sha256": "6199ac4484ef846d97daea93f326f287afecf31b09d7c32f43ef3b32119713f0",
       "size": 1980415,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "ipad11",
+      "kind": "wallpaper",
+      "name": "GirlGyro For iPad",
+      "author": "Van Nghia",
+      "version": "1.0.0",
+      "summary": "Girl Gyro and some beautiful animation , Make For iPad",
+      "description": "Girl Gyro and some beautiful animation , Make For iPad",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0585.jpeg",
+      "screenshots": [
+        "assets/IMG_0585.jpeg",
+        "assets/IMG_0587.jpeg"
+      ],
+      "download": "packages/iPad-11-inch.tendies",
+      "sha256": "caabf75cd7399eefa817d55f2acf3d7ff06538108cec4d8e696d5bcd0677eb24",
+      "size": 8314605,
       "supportedOS": [
         {
           "minimum": "17.0",
