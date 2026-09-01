@@ -673,8 +673,9 @@
         "assets/IMG_0467.png",
         "assets/IMG_0466.png"
       ],
-      "download": "packages/hachiware2.3105pass",
-      "sha256": "ce3cb58493be8ebaa7d9d1a85a6ec1f162b2da57e8aea083eafd8f20d1286fe0",
+      "download": "packages/Chikawa.3105",
+      "sha256": "310d427ebb4faa411c97e649490e46fb3f1ddd8a0610d7083442b3b790d51526",
+      "size": 380975,
       "supportedOS": [
         {
           "minimum": "17.0",
