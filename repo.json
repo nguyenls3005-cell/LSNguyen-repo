@@ -1572,6 +1572,94 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Black-ball",
+      "kind": "wallpaper",
+      "name": "Black Balls",
+      "author": "Spy_g_was_silenced",
+      "version": "1.0.0",
+      "summary": "Floating black balls",
+      "description": "Floating black balls",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0560.png",
+      "screenshots": [
+        "assets/IMG_0560.png",
+        "assets/IMG_0561.png"
+      ],
+      "download": "packages/Black_balls.tendies",
+      "sha256": "d49eed01431cc501195b9fb191ca61e860956cab518e05d97e9e0261cc019d09",
+      "size": 498416,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Akane-angel",
+      "kind": "wallpaper",
+      "name": "AKANE-the-Angle",
+      "author": "Fan DoraXXX",
+      "version": "1.0.0",
+      "summary": "Original from game 'O.N.G.E.K.I' @SEGA",
+      "description": "Original from game 'O.N.G.E.K.I' @SEGA",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0377.png",
+      "screenshots": [
+        "assets/IMG_0377.png",
+        "assets/IMG_0378.png"
+      ],
+      "download": "packages/AKANE_the_Angle.tendies",
+      "sha256": "9eb5c2a00592f77df7adba93632ec991093422139862a57f730d6b7adb6b17e5",
+      "size": 21911764,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
