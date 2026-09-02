@@ -675,7 +675,6 @@
       ],
       "download": "packages/hachiware2.3105pass",
       "sha256": "ce3cb58493be8ebaa7d9d1a85a6ec1f162b2da57e8aea083eafd8f20d1286fe0",
-      "size": 1340430,
       "supportedOS": [
         {
           "minimum": "17.0",
