@@ -1644,47 +1644,6 @@
       ],
       "featured": false,
       "isPrivate": false
-    },
-    {
-      "identifier": "Doraemon-dialer",,
-      "name": "Doraemon Dialer",
-      "author": "Xuan Dan & Gasetinh",
-      "version": "1.0.0",
-      "summary": "Doraemon xuất hiện ngay trên bàn phím quay số!",
-      "description": "theme Doraemon cho anh em không cần jailbreak",
-      "category": "Patches & Dialers",
-      "tags": [
-        "Patches & Dialers"
-      ],
-      "icon": "assets/IMG_0524.png",
-      "screenshots": [
-        "assets/IMG_0524.png",
-        "assets/IMG_0526.png"
-      ],
-      "download": "packages/Doraemon.3105pass",
-      "sha256": "3874e4da4f741ff31528076bede581507cc872e27942087d978afdee1bb3e9e5",
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "featured": false,
-      "isPrivate": false
     }
   ]
 }
