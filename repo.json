@@ -781,9 +781,8 @@
     },
     {
       "identifier": "Shin-3105",
-      "kind": "patch",
       "name": "Shin Dialer",
-      "author": "Gasetinb",
+      "author": "Gasetinh",
       "version": "1.0.0",
       "summary": "Shin xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Shin cho anh em không cần jailbreak",
@@ -796,9 +795,8 @@
         "assets/IMG_0476.png",
         "assets/IMG_0475.png"
       ],
-      "download": "packages/Shin.3105",
-      "sha256": "8bae5e04cfd8fe38f6b6b58f713b24e0e1f9de143013a013030fad12c140339e",
-      "size": 775687,
+      "download": "packages/TelephonyUI-shin.3105pass",
+      "sha256": "0250d985aa0afe3254a828d0a5cff73d7c74afec51ae3c9b0309245d53192cc9",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -824,7 +822,6 @@
     },
     {
       "identifier": "AmongUs-dialer",
-      "kind": "patch",
       "name": "AmongUs Dialer",
       "author": "Gasetinh",
       "version": "1.0.0",
@@ -839,9 +836,8 @@
         "assets/IMG_0481.png",
         "assets/IMG_0480.png"
       ],
-      "download": "packages/AmongUs.3105",
-      "sha256": "3e302b4508d2f50e18c9e50436c4be473245a037974cd96fabefdf6e051c4579",
-      "size": 420374,
+      "download": "packages/TelephonyUI-amongus.3105pass",
+      "sha256": "2c9d81aa5e1fc6fcd4dda955504d042f126599871b5632a98889b893af274193",
       "supportedOS": [
         {
           "minimum": "17.0",
