@@ -1645,6 +1645,51 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Chikawa-meizu",
+      "kind": "wallpaper",
+      "name": "Chikawa Meizu",
+      "author": "LSNguyen & Nhat Tien",
+      "version": "1.0.0",
+      "summary": "Chikawa Meizu!",
+      "description": "Chikawa Meizu so cute!",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0753.jpeg",
+      "screenshots": [
+        "assets/IMG_0753.jpeg",
+        "assets/IMG_0751.png",
+        "assets/IMG_0752.png"
+      ],
+      "download": "packages/Js 3.tendies",
+      "sha256": "2fce640819c6868edc6c6887bce69e8ef54ecb2be9df7cd902af778665e59bdf",
+      "size": 488404,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
