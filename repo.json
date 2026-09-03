@@ -2,7 +2,8 @@
   "schemaVersion": 1,
   "identifier": "com.yangjiii.LSNguyen",
   "name": "LSNguyen Repository",
-  "description": "Mã Nguồn Repo Của LSNguyen",
+  "description": "Nguồn Repository của LSNguyen. nơi đăng nhiều thứ hay ho",
+    "accentColor": "#94ccff",
   "icon": "assets/IMG_0479.jpeg",
   "packages": [
     {
