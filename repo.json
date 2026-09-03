@@ -863,7 +863,6 @@
     },
     {
       "identifier": "Pixel-dialer",
-      "kind": "patch",
       "name": "Pixel Dialer",
       "author": "Gasetinh",
       "version": "1.0.0",
@@ -878,9 +877,8 @@
         "assets/IMG_0484.png",
         "assets/IMG_0485.png"
       ],
-      "download": "packages/Pixel.3105",
-      "sha256": "0e6367666375c5fc3877cbcafd57d5da3584ecabde1843812fcaefdc28da2ea9",
-      "size": 45103,
+      "download": "packages/TelephonyUI-pixel.3105pass",
+      "sha256": "4ce1182a5b8ebf43e948528931d39212f8da915279d2fd45751dd1bd1c569ab5",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -906,9 +904,8 @@
     },
     {
       "identifier": "Lovely-dialer",
-      "kind": "patch",
       "name": "Lovely Dialer",
-      "author": "Gaáetinh",
+      "author": "Gasetinh",
       "version": "1.0.0",
       "summary": "Lovely xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Lovely cho anh em không cần jailbreak",
@@ -921,9 +918,8 @@
         "assets/IMG_0482.png",
         "assets/IMG_0483.png"
       ],
-      "download": "packages/Lovely.3105",
-      "sha256": "bb61ef119e7aadd3fbbe88f95b81d1f85a3d0107733aad0e9c9cc51a373f99dc",
-      "size": 70423,
+      "download": "packages/TelephonyUI-Lovely.3105pass",
+      "sha256": "cd5a288c0358a6b2e4c99592c8c0139473da7db122bf50dc89931f0711569301",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -949,7 +945,6 @@
     },
     {
       "identifier": "Onepiece-dialer",
-      "kind": "patch",
       "name": "OnePiece Dialer",
       "author": "XuanDan & Gasetinh",
       "version": "1.0.0",
@@ -964,9 +959,8 @@
         "assets/IMG_0487.png",
         "assets/IMG_0488.png"
       ],
-      "download": "packages/Onepiece.3105",
-      "sha256": "bae7cfb32179107a86af4be80c122cce7a25600c580499b00f10f21a76331a44",
-      "size": 386627,
+      "download": "packages/onepiecefix.3105pass",
+      "sha256": "f7afba892113793910296b6a688c0a91bedf62a5d3238c415e8784794b23bfe3",
       "supportedOS": [
         {
           "minimum": "17.0",
