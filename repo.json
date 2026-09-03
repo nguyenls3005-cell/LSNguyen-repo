@@ -740,9 +740,8 @@
     },
     {
       "identifier": "Maker-3105",
-      "kind": "patch",
       "name": "Maker Dialer",
-      "author": "Gasetinb",
+      "author": "Gasetinh",
       "version": "1.0.0",
       "summary": "Maker xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Maker cho anh em không cần jailbreak",
@@ -755,9 +754,8 @@
         "assets/IMG_0478.png",
         "assets/IMG_0477.png"
       ],
-      "download": "packages/Maker.3105",
-      "sha256": "9788ed290155ab46452ec3120961af84caad661b2c4f76120bb647f911b30245",
-      "size": 81492,
+      "download": "packages/TelephonyUI-permanent-marker-pen.3105pass",
+      "sha256": "360420fe3a0f29608e4243d17c5dd82bf0e5abfff4b26c409e76171f25be07a5",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -782,10 +780,9 @@
       "isPrivate": false
     },
     {
-      "identifier": "Shin-3105",
-      "kind": "patch",
+      "identifier": "Shin-3105",,
       "name": "Shin Dialer",
-      "author": "Gasetinb",
+      "author": "Gasetinh",
       "version": "1.0.0",
       "summary": "Shin xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Shin cho anh em không cần jailbreak",
@@ -798,9 +795,8 @@
         "assets/IMG_0476.png",
         "assets/IMG_0475.png"
       ],
-      "download": "packages/Shin.3105",
-      "sha256": "8bae5e04cfd8fe38f6b6b58f713b24e0e1f9de143013a013030fad12c140339e",
-      "size": 775687,
+      "download": "packages/TelephonyUI-shin.3105pass",
+      "sha256": "0250d985aa0afe3254a828d0a5cff73d7c74afec51ae3c9b0309245d53192cc9",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -914,7 +910,7 @@
       "identifier": "Lovely-dialer",
       "kind": "patch",
       "name": "Lovely Dialer",
-      "author": "Gaáetinh",
+      "author": "Gasetinh",
       "version": "1.0.0",
       "summary": "Lovely xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Lovely cho anh em không cần jailbreak",
