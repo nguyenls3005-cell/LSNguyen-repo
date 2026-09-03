@@ -780,9 +780,10 @@
       "isPrivate": false
     },
     {
-      "identifier": "Shin-3105",,
+      "identifier": "Shin-3105",
+      "kind": "patch",
       "name": "Shin Dialer",
-      "author": "Gasetinh",
+      "author": "Gasetinb",
       "version": "1.0.0",
       "summary": "Shin xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Shin cho anh em không cần jailbreak",
@@ -795,8 +796,9 @@
         "assets/IMG_0476.png",
         "assets/IMG_0475.png"
       ],
-      "download": "packages/TelephonyUI-shin.3105pass",
-      "sha256": "0250d985aa0afe3254a828d0a5cff73d7c74afec51ae3c9b0309245d53192cc9",
+      "download": "packages/Shin.3105",
+      "sha256": "8bae5e04cfd8fe38f6b6b58f713b24e0e1f9de143013a013030fad12c140339e",
+      "size": 775687,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -910,7 +912,7 @@
       "identifier": "Lovely-dialer",
       "kind": "patch",
       "name": "Lovely Dialer",
-      "author": "Gasetinh",
+      "author": "Gaáetinh",
       "version": "1.0.0",
       "summary": "Lovely xuất hiện ngay trên bàn phím quay số!",
       "description": "theme Lovely cho anh em không cần jailbreak",
