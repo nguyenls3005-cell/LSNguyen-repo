@@ -658,7 +658,6 @@
     },
     {
       "identifier": "Hachiware-dial-3105",
-      "kind": "patch",
       "name": "Hachiware Dialer",
       "author": "Xuan Dan & Gasetinh",
       "version": "1.0.0",
@@ -675,7 +674,6 @@
       ],
       "download": "packages/hachiware2.3105pass",
       "sha256": "ce3cb58493be8ebaa7d9d1a85a6ec1f162b2da57e8aea083eafd8f20d1286fe0",
-      "size": 1340430,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -701,7 +699,6 @@
     },
     {
       "identifier": "cute-cat-3105",
-      "kind": "patch",
       "name": "Cute Cat Dialer",
       "author": "Gasetinh",
       "version": "1.0.0",
@@ -716,9 +713,8 @@
         "assets/IMG_0470.png",
         "assets/IMG_0469.png"
       ],
-      "download": "packages/Cutecat.3105",
-      "sha256": "8aa93792a87c8bb2924a44cdbbe462627e95fd4e1e6cf7107d1d2a672de9c085",
-      "size": 371968,
+      "download": "packages/TelephonyUI-10-cute-cat 2.3105pass",
+      "sha256": "3a5193cd8fcf9794854235c43e386bc6dff059d9daed0398216fb94451841eb8",
       "supportedOS": [
         {
           "minimum": "17.0",
