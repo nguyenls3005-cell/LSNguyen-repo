@@ -1690,6 +1690,138 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Snoopy-ice",
+      "kind": "wallpaper",
+      "name": "Snoopy in the Snow",
+      "author": "Spy_g_was_silenced",
+      "version": "1.0.0",
+      "summary": "Snoopy",
+      "description": "Snoopy",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0769.png",
+      "screenshots": [
+        "assets/IMG_0769.png",
+        "assets/IMG_0770.png"
+      ],
+      "download": "packages/Snoopy_in_the_snow.tendies",
+      "sha256": "2db0707544055362705a0479c8a23f4ec66afac2114d13e7410279c406dc7498",
+      "size": 9004979,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Minecraft",
+      "kind": "wallpaper",
+      "name": "Minecraft Totems",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "summary": "Minecraft",
+      "description": "Minecraft Totems",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0771.png",
+      "screenshots": [
+        "assets/IMG_0771.png",
+        "assets/IMG_0772.png"
+      ],
+      "download": "packages/MINECRAFT.TENDIES",
+      "sha256": "1abc0222a5d92343b0c3e8cbab6f6ffb3e735096a174e8e0bd3d814f0dcd44ae",
+      "size": 2709499,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "furina",
+      "kind": "wallpaper",
+      "name": "Minecraft Furina",
+      "author": "Ymkee01",
+      "version": "1.0.0",
+      "summary": "Furina wallpaper from Genshin Impact with Minecraft",
+      "description": "Furina wallpaper from Genshin Impact with Minecraft",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0773.png",
+      "screenshots": [
+        "assets/IMG_0773.png",
+        "assets/IMG_0774.png"
+      ],
+      "download": "packages/Minecraft_Furina.tendies",
+      "sha256": "243f2c000eb7e60b87e9016e6007e3d6cd6326269067802fc0cb2cd6d4d65d78",
+      "size": 5581191,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
