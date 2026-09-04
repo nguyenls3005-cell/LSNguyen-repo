@@ -1822,6 +1822,48 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Basic-dial",
+      "name": "Basic Dialer",
+      "author": "Owen",
+      "version": "1.0.0",
+      "summary": "Basic Dial xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme OnePiece cho anh em không cần jailbreak",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/IMG_0705.png",
+      "screenshots": [
+        "assets/IMG_0705.png",
+        "assets/IMG_0706.png"
+      ],
+      "download": "packages/Basic_CircleB&W.3105pass",
+      "sha256": "ba91799564d04544cff874c897273037aa4717456a93b7a70798cbefee97aaf8",
+      "size": 406950,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
