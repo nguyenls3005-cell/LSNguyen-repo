@@ -2220,6 +2220,232 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Apple-inteligence",
+      "kind": "wallpaper",
+      "name": "Apple Inteligence",
+      "author": "VtaUL",
+      "version": "1.0.0",
+      "summary": "Apple Intelligence",
+      "description": "Apple Intelligence",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0828.png",
+      "screenshots": [
+        "assets/IMG_0828.png",
+        "assets/IMG_0829.png"
+      ],
+      "download": "packages/Apple_Intelligence.tendies",
+      "sha256": "ce9bb40f3103f4f6acb0731f85d9e253e2e0ec00be668aaf31a21be184bdb1f3",
+      "size": 823928,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Meizu-effect",
+      "kind": "wallpaper",
+      "name": "Meizu wallpaper effect",
+      "author": "MnhCngNg",
+      "version": "1.0.0",
+      "summary": "It's only about 80% like meizu's wallpaper effect",
+      "description": "It's only about 80% like meizu's wallpaper effect",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0830.jpeg",
+      "screenshots": [
+        "assets/IMG_0830.jpeg",
+        "assets/IMG_0831.png",
+        "assets/IMG_0832.png"
+      ],
+      "download": "packages/Meizu_wallpaper_effect.tendies",
+      "sha256": "5c386556f3af9b89dad690dd0ac0ed3a1aa4fa45dbf5fa382b1db73137bddefe",
+      "size": 401246,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Minecraft-liqid-glass",
+      "kind": "wallpaper",
+      "name": "Minecraft Liquid Glass (beta)",
+      "author": "XnightBE",
+      "version": "1.0.0",
+      "summary": "Just minecraft with liquid glass. Русским привет)",
+      "description": "Just minecraft with liquid glass. Русским привет)",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0833.png",
+      "screenshots": [
+        "assets/IMG_0833.png",
+        "assets/IMG_0834.png"
+      ],
+      "download": "packages/Minecraft_Liquid_Glass__beta_.tendies",
+      "sha256": "fae506ebb62b967bea4e311498fae699ac66bcaa5f4097fd4060de42e68a1a01",
+      "size": 25887785,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nakano-nino",
+      "kind": "wallpaper",
+      "name": "Nakano Nino (The Quintessential Quintuplet)",
+      "author": "ShogunRaiden",
+      "version": "1.0.0",
+      "summary": "Custom Wallpaper Nakano nino on Gotoubun no hanayome",
+      "description": "Custom Wallpaper Nakano nino on Gotoubun no hanayome",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0835.png",
+      "screenshots": [
+        "assets/IMG_0835.png",
+        "assets/IMG_0837.png"
+      ],
+      "download": "packages/Nakano_Nino_The_Quintessential_Quintuplet_.tendies",
+      "sha256": "11742ba5325fd092bab78eeb3758b36a4ad4c4fadf358f949d66f54ce842b4f6",
+      "size": 3898542,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "miku-depth",
+      "kind": "wallpaper",
+      "name": "Miku Depth Effect",
+      "author": "wQx",
+      "version": "1.0.0",
+      "summary": "Picture source:@unnyo_8986 from X.",
+      "description": "Picture source:@unnyo_8986 from X.",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0838.png",
+      "screenshots": [
+        "assets/IMG_0838.png",
+        "assets/IMG_0839.png"
+      ],
+      "download": "packages/Miku_Depth_Effect.tendies",
+      "sha256": "afd07b579c9285ec0b99ed462ab05706b0de5f3893ed9c65bd3894c5b818970a",
+      "size": 1033399,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
