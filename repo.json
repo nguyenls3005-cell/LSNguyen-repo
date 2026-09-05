@@ -2085,6 +2085,141 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Techtoker-Wallpaper",
+      "kind": "wallpaper",
+      "name": "techtoker wallpapprr",
+      "author": "3dme0711",
+      "version": "1.0.0",
+      "summary": "tested on ip13 ios26",
+      "description": "tested on ip13 ios26",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0787.png",
+      "screenshots": [
+        "assets/IMG_0787.png",
+        "assets/IMG_0788.png"
+      ],
+      "download": "packages/techtoker_wallpapprr.tendies",
+      "sha256": "602f9de53d55a62e72405d1b87582603e378b8c9b67d8fd2ebe5d74232d84dd9",
+      "size": 480884,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Huawei-palms",
+      "kind": "wallpaper",
+      "name": "Huawei Palms",
+      "author": "Sussy_tech",
+      "version": "1.0.0",
+      "summary": "Found in harmony os (better version coming soon???)",
+      "description": "Found in harmony os (better version coming soon???)",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0791.png",
+      "screenshots": [
+        "assets/IMG_0791.png",
+        "assets/IMG_0792.png"
+      ],
+      "download": "packages/Huawei_Palms.tendies",
+      "sha256": "37bc1ab0bcceed01459880598d1820da6c94a909b906bd3e82c5007450bce07b",
+      "size": 1643004,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "luo-tianyi",
+      "kind": "wallpaper",
+      "name": "Luo Tianyi",
+      "author": "Meisitechen",
+      "version": "1.0.0",
+      "summary": "Luo Tianyi wallpaper",
+      "description": "Luo Tianyi wallpaper",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0793.png",
+      "screenshots": [
+        "assets/IMG_0793.png",
+        "assets/IMG_0794.png"
+      ],
+      "download": "packages/Luo_Tianyi.tendies",
+      "sha256": "bfb858ee2629a8a02e2e0cc2b65997837f72f817900fae27022112ca854ace90",
+      "size": 21135761,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
