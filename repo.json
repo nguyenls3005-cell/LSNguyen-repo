@@ -1950,6 +1950,141 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Snow-Emiter",
+      "kind": "wallpaper",
+      "name": "Snow Emitters",
+      "author": "Enkei64",
+      "version": "1.0.0",
+      "summary": "Snowballs falling from the sky",
+      "description": "Snowballs falling from the sky",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0778.png",
+      "screenshots": [
+        "assets/IMG_0778.png",
+        "assets/IMG_0779.png"
+      ],
+      "download": "packages/Snow_Emitters.tendies",
+      "sha256": "96d4fc9201810edf31b927c33f99264288ca69217ca819e6ab96de18939bfad4",
+      "size": 3245744,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Nintendo-mario",
+      "kind": "wallpaper",
+      "name": "Nintendo Switch 2 X Mario Kart 9 (AOD)",
+      "author": "Enkei64",
+      "version": "1.0.0",
+      "summary": "Nintendo owns intellectual property rights in its products.",
+      "description": "cấu trúc tuy đơn giản nhưng lại vô cùng tinh tế",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0782.png",
+      "screenshots": [
+        "assets/IMG_0782.png",
+        "assets/IMG_0783.png"
+      ],
+      "download": "packages/Nintendo_Switch_2_X_Mario_Kart_9__AOD_.tendies",
+      "sha256": "eb81bf8a750fca42f9434fed8147c3382d7fc830de6a8316af377b63393e627f",
+      "size": 3284010,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Apple-Park",
+      "kind": "wallpaper",
+      "name": "Apple Park (Maps)",
+      "author": "Enkei64",
+      "version": "1.0.0",
+      "summary": "Animated Apple Park maps wallpaper",
+      "description": "Animated Apple Park maps wallpaper",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0784.png",
+      "screenshots": [
+        "assets/IMG_0784.png",
+        "assets/IMG_0785.png"
+      ],
+      "download": "packages/Apple_Park__Maps_.tendies",
+      "sha256": "a0d545d4b2739f80a03603c58d5f2770c06bfc408ff3ce920c14f1e078b7c521",
+      "size": 5891856,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
