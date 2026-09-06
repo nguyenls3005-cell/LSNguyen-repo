@@ -2535,6 +2535,269 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "sweet-dial",
+      "name": "Sweet Candy Dialer",
+      "author": "Gasetinh",
+      "version": "1.0.0",
+      "summary": "Sweet Candy xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Sweet Candy cho anh em không cần jailbreak",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+"publishedAt": "2026-09-06T10:00:00Z",
+      "icon": "assets/IMG_0883.png",
+      "screenshots": [
+        "assets/IMG_0883.png",
+        "assets/IMG_0884.png"
+      ],
+      "download": "packages/Sweet candy.3105pass",
+      "sha256": "7369ff478ae864512ac77be5a8719662adf2bbd55c8328bdcb9c64aacbccd7e9",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Cartoon-dial",
+      "name": "Chewy Cartoon Dialer",
+      "author": "Name tác giả",
+      "version": "1.0.0",
+      "summary": "Chewy Cartoon xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Chewy Cartoon cho anh em không cần jailbreak",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+"publishedAt": "2026-09-06T10:00:00Z",
+      "icon": "assets/IMG_0871.png",
+      "screenshots": [
+        "assets/IMG_0871.png",
+        "assets/IMG_0872.png"
+      ],
+      "download": "packages/ChewyCartoon.3105pass",
+      "sha256": "55cb3f6775c3b3d652a69870ca3e238b95f5c0a3c27238edb57331bded9394a6",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "inkwash-dial",
+      "name": "Ink Wash Dialer",
+      "author": "Gasetinh",
+      "version": "1.0.0",
+      "summary": "Ink Wash xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Ink Wash cho anh em không cần jailbreak",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+"publishedAt": "2026-09-06T10:00:00Z",
+      "icon": "assets/IMG_0887.png",
+      "screenshots": [
+        "assets/IMG_0887.png",
+        "assets/IMG_0888.png"
+      ],
+      "download": "packages/Inkwash.3105pass",
+      "sha256": "a3120845cd2346bc571f797c2075c6a0e93083776bd35f7e61c0c557725658e5",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "solar-system",
+      "kind": "wallpaper",
+      "name": "Solar System",
+      "author": "Squair.dev",
+      "version": "1.0.0",
+      "summary": "Sun, earth, and moon",
+      "description": "Sun, earth, and moon",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-06T10:00:00Z",
+      "icon": "assets/IMG_0891.png",
+      "screenshots": [
+        "assets/IMG_0891.png",
+        "assets/IMG_0893.png"
+      ],
+      "download": "packages/SolarSystem.tendies",
+      "sha256": "f97a9674ed015b6ac59c658bcc9eba2e69fb447fc6d7b6cfc8a0f32ebfc3da65",
+      "size": 3583078,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "spiderman",
+      "kind": "wallpaper",
+      "name": "Spiderman",
+      "author": "Spy_g_was_silenced",
+      "version": "1.0.0",
+      "summary": "spiderman hanging",
+      "description": "spiderman hanging",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-06T10:00:00Z",
+      "icon": "assets/IMG_0894.png",
+      "screenshots": [
+        "assets/IMG_0894.png",
+        "assets/IMG_0895.png"
+      ],
+      "download": "packages/Spiderman.tendies",
+      "sha256": "50bfda2d6f6fa85adfb163aa592752b4613f7c6599a1254c3e1e4bcb5ceec957",
+      "size": 445030,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Snoopy-wall",
+      "kind": "wallpaper",
+      "name": "Snoopy",
+      "author": "Daredvl",
+      "version": "1.0.0",
+      "summary": "A matching wallpaper for the tvOS and watchOS Snoopy wallpapers!",
+      "description": "A matching wallpaper for the tvOS and watchOS Snoopy wallpapers!",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-06T10:00:00Z",
+      "icon": "assets/IMG_0898.png",
+      "screenshots": [
+        "assets/IMG_0898.png",
+        "assets/IMG_0899.png",
+        "assets/IMG_0901.png",
+        "assets/IMG_0902.png"
+      ],
+      "download": "packages/Snoopy.tendies",
+      "sha256": "2db0707544055362705a0479c8a23f4ec66afac2114d13e7410279c406dc7498",
+      "size": 9004979,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
