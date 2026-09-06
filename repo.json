@@ -2446,6 +2446,94 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Widgy-Pro",
+      "kind": "patch",
+      "name": "Widgy",
+      "author": "Mai Bao",
+      "version": "1.0.0",
+      "summary": "Nâng Widgy miễn phí,vĩnh viễn",
+      "description": "Nâng Widgy miễn phí,vĩnh viễn",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+"publishedAt": "2026-09-06T10:00:00Z",
+      "icon": "assets/IMG_0854.png",
+      "screenshots": [
+        "assets/IMG_0854.png",
+        "assets/IMG_0856.png"
+      ],
+      "download": "packages/bWidgy.3105",
+      "sha256": "d251153b14c76d29689197ba43fa0eed74b90eae947538dead88512a45c1a367",
+      "size": 2161,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Locket-gold",
+      "kind": "patch",
+      "name": "Locket",
+      "author": "YangJiii",
+      "version": "1.0.0",
+      "summary": "Nâng Locket miễn phí,vĩnh viễn",
+      "description": "Cách nâng Locket mới nhất\n truy cập web",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+"publishedAt": "2026-09-06T10:00:00Z",
+      "icon": "assets/IMG_0860.png",
+      "screenshots": [
+        "assets/IMG_0860.png",
+        "assets/IMG_0864.png"
+      ],
+      "download": "packages/LocketCustom.3105",
+      "sha256": "5ae759dcefdcfc265bd071040d948de174d1e6531b1ff898f032dfe273e3502c",
+      "size": 3697,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
