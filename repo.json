@@ -2496,7 +2496,6 @@
       "kind": "patch",
       "name": "Locket",
       "author": "YangJiii",
-      "version": "1.0.0",
       "summary": "Nâng Locket miễn phí,vĩnh viễn",
       "description": "Cách nâng Locket mới nhất \nBước 1: Cài Patch từ Repo này về \nBước 2: Copy nguyên đoạn dữ liệu subscriber \nBước 3: Truy cập web https://dangdi.dev/locket/ \nBước 4: Dán dòng chữ vừa nãy copy vào mục dữ liệu json \nBước 5: Nhấn xử lý dữ liệu và bấm vào sao chép \nBước 6: Dán dòng code vừa copy vào mục dữ liệu subscriber hồi nãy \nBước 7: Áp dụng patch và tận hưởng thành quả🔥",
       "category": "Patches & Dialers",
