@@ -2774,8 +2774,53 @@
         "assets/IMG_0902.png"
       ],
       "download": "packages/Snoopy.tendies",
-      "sha256": "2db0707544055362705a0479c8a23f4ec66afac2114d13e7410279c406dc7498",
-      "size": 9004979,
+      "sha256": "2d83542c3d82e52290bf097ea0ea49c807ca5c11840fc8c6099705ee2cf22a49",
+      "size": 294784,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "initial-D",
+      "kind": "wallpaper",
+      "name": "Initial D Wallpaper",
+      "author": "Saifziani",
+      "version": "1.0.0",
+      "summary": "Well Well Well finally a non-gooner Wallpaper here...",
+      "description": "Well Well Well finally a non-gooner Wallpaper here...",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-07T10:00:00Z",
+      "icon": "assets/IMG_0919.png",
+      "screenshots": [
+        "assets/IMG_0919.png",
+        "assets/IMG_0920.png"
+      ],
+      "download": "packages/Initial_D_Wallpaper.tendies",
+      "sha256": "137f8e5c4c1b07034f97d7ada27747c9b25d2c119dfc12ba87f2f4f431937133",
+      "size": 688791,
       "supportedOS": [
         {
           "minimum": "17.0",
