@@ -2843,6 +2843,140 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "iscreen-pre",
+      "kind": "patch",
+      "name": "iScreen",
+      "author": "b",
+      "version": "1.0.0",
+      "summary": "Nâng iScreen miễn phí,vĩnh viễn",
+      "description": "Nâng iScreen miễn phí,vĩnh viễn",
+      "category": "Patch",
+      "tags": [
+        "Patch"
+      ],
+"publishedAt": "2026-09-11T10:00:00Z",
+      "icon": "assets/IMG_0023.png",
+      "screenshots": [
+        "assets/IMG_0023.png",
+        "assets/IMG_0024.png"
+      ],
+      "download": "packages/bIscreen.3105",
+      "sha256": "b6d5750018f064cc3e747e7ce7a1e608a4a129d3267b918f99759c9526aa9bc5",
+      "size": 1738,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Cloudzv2",
+      "kind": "wallpaper",
+      "name": "Cloudzv2",
+      "author": "Dav18d1",
+      "version": "1.0.0",
+      "summary": "Fully animated with turning on animation aswell",
+      "description": "Fully animated with turning on animation aswell",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-11T10:00:00Z",
+      "icon": "assets/IMG_0010.png",
+      "screenshots": [
+        "assets/IMG_0010.png",
+        "assets/IMG_0011.png"
+      ],
+      "download": "packages/Cloudzv2.tendies",
+      "sha256": "6ed24068800f98f1c29e50de33890e8c90626feed96f3c302a0ebdd0a625fc90",
+      "size": 3747262,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "zootopia",
+      "kind": "wallpaper",
+      "name": "Zootopia",
+      "author": "Ysbz",
+      "version": "1.0.0",
+      "summary": "Judy and Nick from Zootopia",
+      "description": "Judy and Nick from Zootopia",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-11T10:00:00Z",
+      "icon": "assets/IMG_0012.png",
+      "screenshots": [
+        "assets/IMG_0012.png",
+        "assets/IMG_0014.png"
+      ],
+      "download": "packages/Zootopia.tendies",
+      "sha256": "a239a50becac79e657086cd04105189d076398c783cbb4043311d6e1fea83ea8",
+      "size": 18071679,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
