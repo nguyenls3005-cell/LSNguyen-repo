@@ -2977,6 +2977,47 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-23",
+      "kind": "wallpaper",
+      "name": "iPhone 15 Pro",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone15Pro.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone15Pro.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone15Pro.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
