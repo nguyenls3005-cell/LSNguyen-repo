@@ -2713,6 +2713,892 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+        {
+      "identifier": "nugget-apple-31",
+      "kind": "wallpaper",
+      "name": "iPhone 17e",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "*iOS 26.3.1+",
+      "description": "*iOS 26.3.1+\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone17e.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone17e.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone17e.tendies",
+      "supportedOS": [
+        {
+          "minimum": "26.3.1",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-30",
+      "kind": "wallpaper",
+      "name": "iPhone Air",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "*15 Pro or newer, iOS 26+",
+      "description": "*15 Pro or newer, iOS 26+\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhoneAir.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhoneAir.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone%20Air.tendies",
+      "supportedOS": [
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-29",
+      "kind": "wallpaper",
+      "name": "iPhone 17 Pro",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "*iOS 26+",
+      "description": "*iOS 26+\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone17Pro.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone17Pro.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone%2017%20Pro.tendies",
+      "supportedOS": [
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-28",
+      "kind": "wallpaper",
+      "name": "iPhone 17",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "*iOS 26+",
+      "description": "*iOS 26+\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone17.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone17.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone%2017.tendies",
+      "supportedOS": [
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-27",
+      "kind": "wallpaper",
+      "name": "iPhone 16 Pro",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "*15 Pro or newer, iOS 18+",
+      "description": "*15 Pro or newer, iOS 18+\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone16Pro.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone16Pro.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone%2016%20Pro.tendies",
+      "supportedOS": [
+        {
+          "minimum": "18.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-26",
+      "kind": "wallpaper",
+      "name": "iPhone 16",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "*iOS 18+",
+      "description": "*iOS 18+\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone16.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone16.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone%2016.tendies",
+      "supportedOS": [
+        {
+          "minimum": "18.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-24",
+      "kind": "wallpaper",
+      "name": "iPhone 16e",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "*iOS 18+",
+      "description": "*iOS 18+\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone16e.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone16e.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone%2016e.tendies",
+      "supportedOS": [
+        {
+          "minimum": "18.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-23",
+      "kind": "wallpaper",
+      "name": "iPhone 15 Pro",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone15Pro.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone15Pro.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone15Pro.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-22",
+      "kind": "wallpaper",
+      "name": "iPhone 15",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone15.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone15.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone15.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-21",
+      "kind": "wallpaper",
+      "name": "iPhone 14 Pro",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone14Pro.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone14Pro.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone14Pro.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-20",
+      "kind": "wallpaper",
+      "name": "iPhone 14",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone14.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone14.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone14.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-19",
+      "kind": "wallpaper",
+      "name": "iPhone SE 3rd Gen",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhoneSEGen3.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhoneSEGen3.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhoneSEGen3.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-14",
+      "kind": "wallpaper",
+      "name": "iPhone SE 2nd Gen",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhoneSEGen2.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhoneSEGen2.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhoneSEGen2.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-12",
+      "kind": "wallpaper",
+      "name": "iPhone 11",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone11.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPhone11.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPhone11.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-11",
+      "kind": "wallpaper",
+      "name": "iPad mini 6th Gen",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadMiniGen6.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadMiniGen6.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPadMiniGen6.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-10",
+      "kind": "wallpaper",
+      "name": "iPad Air 6th Gen",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadAirGen6.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadAirGen6.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPadAirGen6.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-9",
+      "kind": "wallpaper",
+      "name": "iPad Air 5th Gen",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadAirGen5.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadAirGen5.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPadAirGen5.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-8",
+      "kind": "wallpaper",
+      "name": "iPad Air 4th Gen",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadAirGen4.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iPadAirGen4.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iPadAirGen4.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-7",
+      "kind": "wallpaper",
+      "name": "iOS 17",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS17.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS17.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iOS17.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-6",
+      "kind": "wallpaper",
+      "name": "iOS 16",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS16.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS16.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iOS16.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-5",
+      "kind": "wallpaper",
+      "name": "iOS 15",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS15.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/iOS15.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/iOS15.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-apple-4",
+      "kind": "wallpaper",
+      "name": "Lake (iOS 14)",
+      "author": "Nugget-Wallpapers",
+      "version": "1.0.0",
+      "summary": "Wallpaper .tendies từ Nugget-Wallpapers.",
+      "description": "Wallpaper .tendies từ Nugget-Wallpapers.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Apple"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/Lake.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/Lake.png"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/apple/Lake.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
