@@ -3641,47 +3641,6 @@
       ],
       "featured": false,
       "isPrivate": false
-    },
-    {
-      "identifier": "minepass-rainbow",
-      "name": "Minepass Rainbow Pass Theme",
-      "author": "LSNguyen & AIslayer",
-      "version": "1.0.0",
-      "summary": "Pass Theme Minecraft Rainbow",
-      "description": "Pass Theme Minecraft Rainbow\n✅Áp dụng cho tất cả các app khoá passcode\n❌Không áp dụng cho passcode màn hình khoá , mục face id và mật mã trong cài đặt",
-      "category": "Pass Theme",
-      "tags": [
-         "Pass Theme"
-      ],
-"publishedAt": "2026-09-07T10:00:00Z",
-      "icon": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/main/previews/passtheme/images/MinePass_Rainbow_preview.png",
-      "screenshots": [
-        "ahttps://raw.githubusercontent.com/SerStars/nugget-wallpapers/main/previews/passtheme/images/MinePass_Rainbow_preview.png"
-      ],
-      "download": "packages/MinePass Rainbow Pass Theme Dark-light Bold.3105",
-      "sha256": "04b1c8cec861d503f05bdc7a4dfc89580b44942ce1cc41e8271cac521ed90bcc",
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "featured": false,
-      "isPrivate": false
     }
   ]
 }
