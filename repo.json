@@ -38,7 +38,11 @@
         },
         {
           "minimum": "27.0",
-          "maximum": "27.2",
+          "maximum": "27.0.1",
+          },
+          {
+            "minimum": "27.0",
+            "maximum": "27.2",
           "builds": [
             "24A5355q",
             "24A5370h",
