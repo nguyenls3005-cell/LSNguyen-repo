@@ -4405,6 +4405,416 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+        {
+      "identifier": "nugget-custom-113",
+      "kind": "wallpaper",
+      "name": "Cipher",
+      "author": "@mightycooldude12",
+      "version": "1.0.0",
+      "summary": "Decoding...",
+      "description": "Decoding...\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Cipher.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Cipher.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Cipher.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-112",
+      "kind": "wallpaper",
+      "name": "Simple Minecraft Chest",
+      "author": "@tayvall",
+      "version": "1.0.0",
+      "summary": "Open the chest!",
+      "description": "Open the chest!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SimpleMinecraftChest.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SimpleMinecraftChest.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/SimpleMinecraftChest.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-110",
+      "kind": "wallpaper",
+      "name": "Super Mario Bros.",
+      "author": "@squair.dev",
+      "version": "1.0.0",
+      "summary": "Play Super Mario Bros. on your lock screen!",
+      "description": "Play Super Mario Bros. on your lock screen!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SuperMarioBros.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/SuperMarioBros.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/SuperMarioBros.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-109",
+      "kind": "wallpaper",
+      "name": "Apollo 15",
+      "author": "@qaztar",
+      "version": "1.0.0",
+      "summary": "Woah... the Apollo 15 mission!",
+      "description": "Woah... the Apollo 15 mission!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Apollo15.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/Apollo15.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/Apollo15.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-108",
+      "kind": "wallpaper",
+      "name": "Rolling Hills",
+      "author": "@i.mes",
+      "version": "1.0.0",
+      "summary": "boink boink boink",
+      "description": "boink boink boink\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/RollingHills.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/RollingHills.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/RollingHills.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-107",
+      "kind": "wallpaper",
+      "name": "Where's Waldo?",
+      "author": "@trinityhades",
+      "version": "1.0.0",
+      "summary": "Do you know where Waldo is?",
+      "description": "Do you know where Waldo is?\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/WheresWaldo.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/WheresWaldo.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/WheresWaldo.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-106",
+      "kind": "wallpaper",
+      "name": "DVD Screensaver",
+      "author": "@mightycooldude12",
+      "version": "1.0.0",
+      "summary": "It hits the corner!",
+      "description": "It hits the corner!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/DVDcolor.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/DVDcolor.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/DVDcolor.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-105",
+      "kind": "wallpaper",
+      "name": "Black Hole",
+      "author": "@i.mes",
+      "version": "1.0.0",
+      "summary": "Cool, beautiful, and strong.",
+      "description": "Cool, beautiful, and strong.\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/BlackHole.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/BlackHole.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/BlackHole.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-104",
+      "kind": "wallpaper",
+      "name": "Cat Volleyball",
+      "author": "@c4ndyf1sh",
+      "version": "1.0.0",
+      "summary": "Hapi Hapi Hapi",
+      "description": "Hapi Hapi Hapi\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/catvolleyball-lite.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/catvolleyball-lite.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/catvolleyball-lite.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nugget-custom-103",
+      "kind": "wallpaper",
+      "name": "Animal Crossing Seasons",
+      "author": "@dootskyre",
+      "version": "1.0.0",
+      "summary": "Based on the Animal Crossing New Horizons loading screen, an always animated wallpaper with 5 seasonal light/dark variants!",
+      "description": "Based on the Animal Crossing New Horizons loading screen, an always animated wallpaper with 5 seasonal light/dark variants!\n\nNguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/AnimalCrossingSeasons.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/custom/gifs/AnimalCrossingSeasons.gif"
+      ],
+      "download": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/wallpapers/custom/AnimalCrossingSeasons.tendies",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
