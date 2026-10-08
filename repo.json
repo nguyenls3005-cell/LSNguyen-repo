@@ -4,7 +4,7 @@
   "name": "LSNguyen Repository",
   "description": "Nguồn Repository của LSNguyen. nơi đăng nhiều thứ hay ho",
     "accentColor": "#94ccff",
-  "icon": "assets/IMG_0479.jpeg",
+  "icon": "assets/IMG_0053.jpeg",
   "packages": [
     {
       "identifier": "Deafult-apple-wallpaper",
@@ -491,7 +491,7 @@
     },
     {
       "identifier": "Hachiware-dial-3105",
-      "name": "Hachiware Dialer",
+      "name": "Hachiware Dialer & Pass Theme",
       "author": "Xuan Dan & Gasetinh",
       "version": "1.0.0",
       "summary": "Hachiware xuất hiện ngay trên bàn phím quay số!",
@@ -501,10 +501,11 @@
         "Dialer & Pass Theme"
       ],
       "publishedAt": "2026-08-30T10:00:00Z",
-      "icon": "assets/IMG_0467.png",
+      "icon": "assets/IMG_0556.png",
       "screenshots": [
-        "assets/IMG_0467.png",
-        "assets/IMG_0466.png"
+        "assets/IMG_0556.png",
+        "assets/IMG_0557.png",
+        "assets/IMG_0558.png"
       ],
       "download": "packages/hachiware2.3105pass",
       "sha256": "ce3cb58493be8ebaa7d9d1a85a6ec1f162b2da57e8aea083eafd8f20d1286fe0",
@@ -552,10 +553,11 @@
         "Dialer & Pass Theme"
       ],
       "publishedAt": "2026-08-30T10:00:00Z",
-      "icon": "assets/IMG_0470.png",
+      "icon": "assets/IMG_0559.png",
       "screenshots": [
-        "assets/IMG_0470.png",
-        "assets/IMG_0469.png"
+        "assets/IMG_0559.png",
+        "assets/IMG_0560.png",
+        "assets/IMG_0561.png"
       ],
       "download": "packages/TelephonyUI-10-cute-cat 2.3105pass",
       "sha256": "3a5193cd8fcf9794854235c43e386bc6dff059d9daed0398216fb94451841eb8",
@@ -603,10 +605,11 @@
         "Dialer & Pass Theme"
       ],
       "publishedAt": "2026-08-30T10:00:00Z",
-      "icon": "assets/IMG_0478.png",
+      "icon": "assets/IMG_0562.png",
       "screenshots": [
-        "assets/IMG_0478.png",
-        "assets/IMG_0477.png"
+        "assets/IMG_0562.png",
+        "assets/IMG_0563.png",
+        "assets/IMG_0564.png"
       ],
       "download": "packages/TelephonyUI-permanent-marker-pen.3105pass",
       "sha256": "360420fe3a0f29608e4243d17c5dd82bf0e5abfff4b26c409e76171f25be07a5",
@@ -654,10 +657,11 @@
         "Dialer & Pass Theme"
       ],
       "publishedAt": "2026-08-30T10:00:00Z",
-      "icon": "assets/IMG_0476.png",
+      "icon": "assets/IMG_0565.png",
       "screenshots": [
-        "assets/IMG_0476.png",
-        "assets/IMG_0475.png"
+        "assets/IMG_0565.png",
+        "assets/IMG_0566.png",
+        "assets/IMG_0567.png"
       ],
       "download": "packages/TelephonyUI-shin.3105pass",
       "sha256": "0250d985aa0afe3254a828d0a5cff73d7c74afec51ae3c9b0309245d53192cc9",
@@ -705,10 +709,11 @@
         "Dialer & Pass Theme"
       ],
       "publishedAt": "2026-08-30T10:00:00Z",
-      "icon": "assets/IMG_0481.png",
+      "icon": "assets/IMG_0569.png",
       "screenshots": [
-        "assets/IMG_0481.png",
-        "assets/IMG_0480.png"
+        "assets/IMG_0569.png",
+        "assets/IMG_0570.png",
+        "assets/IMG_0571.png"
       ],
       "download": "packages/TelephonyUI-amongus.3105pass",
       "sha256": "2c9d81aa5e1fc6fcd4dda955504d042f126599871b5632a98889b893af274193",
@@ -756,10 +761,11 @@
         "Dialer & Pass Theme"
       ],
       "publishedAt": "2026-08-30T10:00:00Z",
-      "icon": "assets/IMG_0868.png",
+      "icon": "assets/IMG_0572.png",
       "screenshots": [
-        "assets/IMG_0868.png",
-        "assets/IMG_0870.png"
+        "assets/IMG_0572.png",
+        "assets/IMG_0573.png",
+        "assets/IMG_0574.png"
       ],
       "download": "packages/Fixpixel.3105pass",
       "sha256": "0dd3871d496200937c3a10fd4c61d69daea0486ccc66da73cdc13134e5209366",
@@ -807,10 +813,11 @@
         "Dialer & Pass Theme"
       ],
       "publishedAt": "2026-08-30T10:00:00Z",
-      "icon": "assets/IMG_0482.png",
+      "icon": "assets/IMG_0576.png",
       "screenshots": [
-        "assets/IMG_0482.png",
-        "assets/IMG_0483.png"
+        "assets/IMG_0576.png",
+        "assets/IMG_0577.png",
+        "assets/IMG_0578.png"
       ],
       "download": "packages/TelephonyUI-Lovely.3105pass",
       "sha256": "cd5a288c0358a6b2e4c99592c8c0139473da7db122bf50dc89931f0711569301",
@@ -4427,20 +4434,29 @@
       "supportedOS": [
         {
           "minimum": "17.0",
-          "maximum": "18.7.1"
+          "maximum": "18.7.10"
         },
         {
           "minimum": "26.0",
-          "maximum": "26.6.1"
+          "maximum": "26.7"
         },
         {
           "minimum": "27.0",
-          "maximum": "27.0",
+          "maximum": "27.2",
           "builds": [
             "24A5355q",
             "24A5370h",
             "24A5380h",
-            "24A5390f"
+            "24A5390f",
+            "24A5408d",
+            "24A5418b",
+            "24A5424a",
+            "24A5430a",
+            "24A435",
+            "24A437",
+            "24B5084K",
+            "24B5089g",
+            "24A446"
           ]
         }
       ],
@@ -4468,20 +4484,29 @@
       "supportedOS": [
         {
           "minimum": "17.0",
-          "maximum": "18.7.1"
+          "maximum": "18.7.10"
         },
         {
           "minimum": "26.0",
-          "maximum": "26.6.1"
+          "maximum": "26.7"
         },
         {
           "minimum": "27.0",
-          "maximum": "27.0",
+          "maximum": "27.2",
           "builds": [
             "24A5355q",
             "24A5370h",
             "24A5380h",
-            "24A5390f"
+            "24A5390f",
+            "24A5408d",
+            "24A5418b",
+            "24A5424a",
+            "24A5430a",
+            "24A435",
+            "24A437",
+            "24B5084K",
+            "24B5089g",
+            "24A446"
           ]
         }
       ],
@@ -4509,20 +4534,29 @@
       "supportedOS": [
         {
           "minimum": "17.0",
-          "maximum": "18.7.1"
+          "maximum": "18.7.10"
         },
         {
           "minimum": "26.0",
-          "maximum": "26.6.1"
+          "maximum": "26.7"
         },
         {
           "minimum": "27.0",
-          "maximum": "27.0",
+          "maximum": "27.2",
           "builds": [
             "24A5355q",
             "24A5370h",
             "24A5380h",
-            "24A5390f"
+            "24A5390f",
+            "24A5408d",
+            "24A5418b",
+            "24A5424a",
+            "24A5430a",
+            "24A435",
+            "24A437",
+            "24B5084K",
+            "24B5089g",
+            "24A446"
           ]
         }
       ],
@@ -4550,20 +4584,29 @@
       "supportedOS": [
         {
           "minimum": "17.0",
-          "maximum": "18.7.1"
+          "maximum": "18.7.10"
         },
         {
           "minimum": "26.0",
-          "maximum": "26.6.1"
+          "maximum": "26.7"
         },
         {
           "minimum": "27.0",
-          "maximum": "27.0",
+          "maximum": "27.2",
           "builds": [
             "24A5355q",
             "24A5370h",
             "24A5380h",
-            "24A5390f"
+            "24A5390f",
+            "24A5408d",
+            "24A5418b",
+            "24A5424a",
+            "24A5430a",
+            "24A435",
+            "24A437",
+            "24B5084K",
+            "24B5089g",
+            "24A446"
           ]
         }
       ],
@@ -4591,20 +4634,29 @@
       "supportedOS": [
         {
           "minimum": "17.0",
-          "maximum": "18.7.1"
+          "maximum": "18.7.10"
         },
         {
           "minimum": "26.0",
-          "maximum": "26.6.1"
+          "maximum": "26.7"
         },
         {
           "minimum": "27.0",
-          "maximum": "27.0",
+          "maximum": "27.2",
           "builds": [
             "24A5355q",
             "24A5370h",
             "24A5380h",
-            "24A5390f"
+            "24A5390f",
+            "24A5408d",
+            "24A5418b",
+            "24A5424a",
+            "24A5430a",
+            "24A435",
+            "24A437",
+            "24B5084K",
+            "24B5089g",
+            "24A446"
           ]
         }
       ],
@@ -4632,20 +4684,29 @@
       "supportedOS": [
         {
           "minimum": "17.0",
-          "maximum": "18.7.1"
+          "maximum": "18.7.10"
         },
         {
           "minimum": "26.0",
-          "maximum": "26.6.1"
+          "maximum": "26.7"
         },
         {
           "minimum": "27.0",
-          "maximum": "27.0",
+          "maximum": "27.2",
           "builds": [
             "24A5355q",
             "24A5370h",
             "24A5380h",
-            "24A5390f"
+            "24A5390f",
+            "24A5408d",
+            "24A5418b",
+            "24A5424a",
+            "24A5430a",
+            "24A435",
+            "24A437",
+            "24B5084K",
+            "24B5089g",
+            "24A446"
           ]
         }
       ],
@@ -4673,20 +4734,29 @@
       "supportedOS": [
         {
           "minimum": "17.0",
-          "maximum": "18.7.1"
+          "maximum": "18.7.10"
         },
         {
           "minimum": "26.0",
-          "maximum": "26.6.1"
+          "maximum": "26.7"
         },
         {
           "minimum": "27.0",
-          "maximum": "27.0",
+          "maximum": "27.2",
           "builds": [
             "24A5355q",
             "24A5370h",
             "24A5380h",
-            "24A5390f"
+            "24A5390f",
+            "24A5408d",
+            "24A5418b",
+            "24A5424a",
+            "24A5430a",
+            "24A435",
+            "24A437",
+            "24B5084K",
+            "24B5089g",
+            "24A446"
           ]
         }
       ],
@@ -4714,20 +4784,29 @@
       "supportedOS": [
         {
           "minimum": "17.0",
-          "maximum": "18.7.1"
+          "maximum": "18.7.10"
         },
         {
           "minimum": "26.0",
-          "maximum": "26.6.1"
+          "maximum": "26.7"
         },
         {
           "minimum": "27.0",
-          "maximum": "27.0",
+          "maximum": "27.2",
           "builds": [
             "24A5355q",
             "24A5370h",
             "24A5380h",
-            "24A5390f"
+            "24A5390f",
+            "24A5408d",
+            "24A5418b",
+            "24A5424a",
+            "24A5430a",
+            "24A435",
+            "24A437",
+            "24B5084K",
+            "24B5089g",
+            "24A446"
           ]
         }
       ],
@@ -4755,20 +4834,29 @@
       "supportedOS": [
         {
           "minimum": "17.0",
-          "maximum": "18.7.1"
+          "maximum": "18.7.10"
         },
         {
           "minimum": "26.0",
-          "maximum": "26.6.1"
+          "maximum": "26.7"
         },
         {
           "minimum": "27.0",
-          "maximum": "27.0",
+          "maximum": "27.2",
           "builds": [
             "24A5355q",
             "24A5370h",
             "24A5380h",
-            "24A5390f"
+            "24A5390f",
+            "24A5408d",
+            "24A5418b",
+            "24A5424a",
+            "24A5430a",
+            "24A435",
+            "24A437",
+            "24B5084K",
+            "24B5089g",
+            "24A446"
           ]
         }
       ],
@@ -4796,20 +4884,29 @@
       "supportedOS": [
         {
           "minimum": "17.0",
-          "maximum": "18.7.1"
+          "maximum": "18.7.10"
         },
         {
           "minimum": "26.0",
-          "maximum": "26.6.1"
+          "maximum": "26.7"
         },
         {
           "minimum": "27.0",
-          "maximum": "27.0",
+          "maximum": "27.2",
           "builds": [
             "24A5355q",
             "24A5370h",
             "24A5380h",
-            "24A5390f"
+            "24A5390f",
+            "24A5408d",
+            "24A5418b",
+            "24A5424a",
+            "24A5430a",
+            "24A435",
+            "24A437",
+            "24B5084K",
+            "24B5089g",
+            "24A446"
           ]
         }
       ],
