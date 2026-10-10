@@ -1233,7 +1233,7 @@
       "identifier": "wang-lin",
       "kind": "wallpaper",
       "name": "Wanglin",
-      "author": "Plat iOS",
+      "author": "Unknown",
       "version": "1.0.0",
       "summary": "Character Wanglin",
       "description": "Character Wanglin",
@@ -1243,10 +1243,10 @@
         "Custom"
       ],
       "publishedAt": "2026-08-31T10:00:00Z",
-      "icon": "assets/IMG_0556.png",
+      "icon": "assets23105/IMG_0017.png",
       "screenshots": [
-        "assets/IMG_0556.png",
-        "assets/IMG_0557.png"
+        "assets23105/IMG_0017.png",
+        "assets23105/IMG_0018.png"
       ],
       "download": "packages/wanglin.tendies",
       "sha256": "7d6bad0484f914fb6c9c7a929c39ce03d6ac57b242cbfa31c228c5021862c5d3",
@@ -1351,10 +1351,10 @@
         "Custom"
       ],
       "publishedAt": "2026-09-01T10:00:00Z",
-      "icon": "assets/IMG_0595.png",
+      "icon": "assets23105/IMG_0028.png",
       "screenshots": [
-        "assets/IMG_0595.png",
-        "assets/IMG_0596.png"
+        "assets23105/IMG_0028.png",
+        "assets23105/IMG_0030.png"
       ],
       "download": "packages/Usagi.tendies",
       "sha256": "6732bc46661f629a81ceaf2bf4a54ee46105d1268a8681f834eb81b705b40465",
@@ -1405,10 +1405,10 @@
         "Custom"
       ],
       "publishedAt": "2026-09-01T10:00:00Z",
-      "icon": "assets/IMG_0598.png",
+      "icon": "assets23105/IMG_0012.png",
       "screenshots": [
-        "assets/IMG_0598.png",
-        "assets/IMG_0599.png"
+        "assets23105/IMG_0012.png",
+        "assets23105/IMG_0013.png"
       ],
       "download": "packages/BrokenScreen.tendies",
       "sha256": "2fbc73afa44c0ed396060f46d61e20698a972deea734d4adca628f9b5d07a032",
@@ -1567,10 +1567,10 @@
         "Custom"
       ],
       "publishedAt": "2026-09-01T10:00:00Z",
-      "icon": "assets/IMG_0558.png",
+      "icon": "assets23105/IMG_0020.png",
       "screenshots": [
-        "assets/IMG_0558.png",
-        "assets/IMG_0559.png"
+        "assets23105/IMG_0020.png",
+        "assets23105/IMG_0021.png"
       ],
       "download": "packages/koisuru_1-0.tendies",
       "sha256": "44ba75dcd4b91db9aed1e38c2e98b41108709c3ede5bf62cb1065019e9a7f7db",
@@ -1621,10 +1621,10 @@
         "Custom"
       ],
       "publishedAt": "2026-09-01T10:00:00Z",
-      "icon": "assets/IMG_0560.png",
+      "icon": "assets23105/IMG_0022.png",
       "screenshots": [
-        "assets/IMG_0560.png",
-        "assets/IMG_0561.png"
+        "assets23105/IMG_0022.png",
+        "assets23105/IMG_0023.png"
       ],
       "download": "packages/Black_balls.tendies",
       "sha256": "d49eed01431cc501195b9fb191ca61e860956cab518e05d97e9e0261cc019d09",
@@ -1675,10 +1675,10 @@
         "Custom"
       ],
       "publishedAt": "2026-09-02T10:00:00Z",
-      "icon": "assets/IMG_0377.png",
+      "icon": "assets23105/IMG_0033.png",
       "screenshots": [
-        "assets/IMG_0377.png",
-        "assets/IMG_0378.png"
+        "assets23105/IMG_0033.png",
+        "assets23105/IMG_0034.png"
       ],
       "download": "packages/AKANE_the_Angle.tendies",
       "sha256": "9eb5c2a00592f77df7adba93632ec991093422139862a57f730d6b7adb6b17e5",
@@ -2050,10 +2050,10 @@
         "Custom"
       ],
 "publishedAt": "2026-09-05T10:00:00Z",
-      "icon": "assets/IMG_0778.png",
+      "icon": "assets23105/IMG_0035.png",
       "screenshots": [
-        "assets/IMG_0778.png",
-        "assets/IMG_0779.png"
+        "assets23105/IMG_0035.png",
+        "assets23105/IMG_0036.png"
       ],
       "download": "packages/Snow_Emitters.tendies",
       "sha256": "96d4fc9201810edf31b927c33f99264288ca69217ca819e6ab96de18939bfad4",
@@ -2097,7 +2097,7 @@
       "author": "Enkei64",
       "version": "1.0.0",
       "summary": "Nintendo owns intellectual property rights in its products.",
-      "description": "cấu trúc tuy đơn giản nhưng lại vô cùng tinh tế",
+      "description": "Nintendo owns intellectual property rights in its products.",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
@@ -2320,10 +2320,10 @@
         "Custom"
       ],
 "publishedAt": "2026-09-05T10:00:00Z",
-      "icon": "assets/IMG_0793.png",
+      "icon": "assets23105/IMG_0037.png",
       "screenshots": [
-        "assets/IMG_0793.png",
-        "assets/IMG_0794.png"
+        "assets23105/IMG_0037.png",
+        "assets23105/IMG_0038.png"
       ],
       "download": "packages/Luo_Tianyi.tendies",
       "sha256": "bfb858ee2629a8a02e2e0cc2b65997837f72f817900fae27022112ca854ace90",
@@ -3231,10 +3231,10 @@
         "Custom"
       ],
 "publishedAt": "2026-09-11T10:00:00Z",
-      "icon": "assets/IMG_0012.png",
+      "icon": "assets23105/IMG_0025.png",
       "screenshots": [
-        "assets/IMG_0012.png",
-        "assets/IMG_0014.png"
+        "assets23105/IMG_0025.png",
+        "assets23105/IMG_0031.png"
       ],
       "download": "packages/Zootopia.tendies",
       "sha256": "a239a50becac79e657086cd04105189d076398c783cbb4043311d6e1fea83ea8",
