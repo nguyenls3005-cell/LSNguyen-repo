@@ -60,60 +60,6 @@
       "isPrivate": false
     },
     {
-      "identifier": "Apple-Bird",
-      "kind": "wallpaper",
-      "name": "Apple Birds",
-      "author": "Nhat Tien",
-      "version": "1.0.0",
-      "summary": "hình nền đơn giản với logo apple đổi màu",
-      "description": "cấu trúc tuy đơn giản nhưng lại vô cùng tinh tế",
-      "category": "Wallpaper",
-      "tags": [
-        "Wallpaper",
-        "Custom"
-      ],
-      "publishedAt": "2026-08-29T10:00:00Z",
-      "icon": "assets/IMG_0371.png",
-      "screenshots": [
-        "assets/IMG_0371.png",
-        "assets/IMG_0372.png"
-      ],
-      "download": "packages/Apple-Bird-.tendies",
-      "sha256": "b08d0c563241639c90806407ef3aea5d1e2c83125b1f555bd7d1702900836280",
-      "size": 1451272,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.10"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.7"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.2",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f",
-            "24A5408d",
-            "24A5418b",
-            "24A5424a",
-            "24A5430a",
-            "24A435",
-            "24A437",
-            "24B5084K",
-            "24B5089g",
-            "24A446"
-          ]
-        }
-      ],
-      "featured": false,
-      "isPrivate": false
-    },
-    {
       "identifier": "Capcut-Pro",
       "kind": "patch",
       "name": "Capcut",
@@ -1287,7 +1233,7 @@
       "identifier": "Cat-Dog",
       "kind": "wallpaper",
       "name": "A Dog and Two Cats Wearing Headphone",
-      "author": "Nhat Tien",
+      "author": "Unknown",
       "version": "1.0.0",
       "summary": "A Dog and Two Cats Wearing Headphone",
       "description": "A Dog and Two Cats Wearing Headphone",
@@ -1305,60 +1251,6 @@
       "download": "packages/nugget_wallpaper_a_cat_and_a_dog_wearing_headphones.tendies",
       "sha256": "29d9f91013e631e2e2f55acd37cc14c2b581d9cbf1d37715cff04a634310b92c",
       "size": 6193610,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.10"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.7"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.2",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f",
-            "24A5408d",
-            "24A5418b",
-            "24A5424a",
-            "24A5430a",
-            "24A435",
-            "24A437",
-            "24B5084K",
-            "24B5089g",
-            "24A446"
-          ]
-        }
-      ],
-      "featured": false,
-      "isPrivate": false
-    },
-    {
-      "identifier": "usagi-wall",
-      "kind": "wallpaper",
-      "name": "Usagi Wallpaper",
-      "author": "Nhat Tien (repo  Denrindz)",
-      "version": "1.0.0",
-      "summary": "hình nền Usagi siêu cute✨",
-      "description": "Phù hợp với các chị em",
-      "category": "Wallpaper",
-      "tags": [
-        "Wallpaper",
-        "Custom"
-      ],
-      "publishedAt": "2026-09-01T10:00:00Z",
-      "icon": "assets23105/IMG_0028.png",
-      "screenshots": [
-        "assets23105/IMG_0028.png",
-        "assets23105/IMG_0030.png"
-      ],
-      "download": "packages/Usagi.tendies",
-      "sha256": "6732bc46661f629a81ceaf2bf4a54ee46105d1268a8681f834eb81b705b40465",
-      "size": 12991848,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -1719,7 +1611,7 @@
       "identifier": "Chikawa-meizu",
       "kind": "wallpaper",
       "name": "Chikawa Meizu",
-      "author": "LSNguyen & Nhat Tien",
+      "author": "LSNguyen",
       "version": "1.0.0",
       "summary": "Chikawa Meizu!",
       "description": "Chikawa Meizu so cute!",
